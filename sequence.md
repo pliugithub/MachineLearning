@@ -25,13 +25,12 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-This site is undergoing re-numbering of units, so many links may connect
-to documents that don't match the number of the unit.  We will fix these soon!
+* [Spring 2021 Syllabus](./lectures/GY6143_ML_Syllabus_S21.pdf)
 
 * [Setting up python, jupyter and github](./Basics/setup.md)
     * [Set up a local machine](./Basics/setup.md)
     * [Set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)    
-    * [Downloading the course material from github](./Basics/github.md)
+    * [Downloading the course material from github](./Basics/github.md)    
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
 * Unit 1:  What is machine learning? 
