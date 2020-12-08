@@ -33,6 +33,10 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Downloading the course material from github](./Basics/github.md)    
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
+    
+    
+**Links below are not available yet.**
+    
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
      [[Powerpoint]](./lectures/Lect01_IntroML.pptx)    
