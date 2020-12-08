@@ -1,10 +1,8 @@
 # Introduction to Machine Learning in Python
 
-This repository provides instructional material for 
-machine learning in python.  The material is used for two classes taught at NYU Tandon
-by [Sundeep Rangan](http://wireless.engineering.nyu.edu/sundeep-rangan/):
+This repository provides instructional material for  machine learning in python.  The material is used for graduate class taught at NYU Tandon
+by Pei Liu. Most of the materials are from [Sundeep Rangan](http://wireless.engineering.nyu.edu/sundeep-rangan/), who taught this course in previous semesters.
 
-* EE-UY / CS-UY 4563: Introduction to Machine Learning (Undergraduate)
 * EL-GY 6143: Introduction to Machine Learning (Graduate)
 
 Anyone is free to use and copy this material (at their own risk!).
