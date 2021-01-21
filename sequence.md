@@ -34,14 +34,15 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
     
-    
-**Links below are not available yet.**
-    
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
      [[Powerpoint]](./lectures/Lect01_IntroML.pptx)    
-     * [Lecture videos](./unit01_intro/online/readme.md)
+     * [Lecture videos]()
      * [Demo:  Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
+    
+**Links below are not available yet.**
+    
+
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
