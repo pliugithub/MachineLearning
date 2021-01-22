@@ -81,7 +81,7 @@ We next need to reconfigure the VM.
 
 ## Access Jupyter notebook on the VM
 
-1. Navigate to the [Google AI Platform page](https://console.cloud.google.com/ai-platform), and click "Notebooks on the left". You will see a list of VM instances that have Jupyterlabs.
+1. Navigate to the [Google AI Platform page](https://console.cloud.google.com/ai-platform), and click "Notebooks" on the left side panel. You will see a list of VM instances that have Jupyterlabs.
 
 2. Start the instance and click "OPEN JUPYTERLAB". 
 
