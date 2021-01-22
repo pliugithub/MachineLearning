@@ -20,17 +20,20 @@ regular CPU instancess, so you want to make sure you turn off the instances
 you are not using.  
 
 ## Requesting GPU quota
-To use a GPU on GCP, you will need to first request GPU access.  For CPU instances,
-you can skip this step.
+To use a GPU on GCP, you will need to first request GPU access.  For CPU instances, you can skip this step. When you initlialy register for GCP, you will be using the free service and you cannot request GPU quota. To request GPU, you have to upgrade your account to a paid account first.
 1.  Go to the [IAM & admin page](https://console.cloud.google.com/projectselector/iam-admin)
 2.  Select the project you are using or create a new one.
-3.  Select "Quotas" on the left menu.
+3.  Select "Quotas" on the left menu. 
 4.  There are a large number of quotas that can be edited.  To find
     the correct quota, select on the top of the page:
     *   Service:  "Compute Engine API"
-    *   Metric:  "NVIDIA P100 GPUs"
+    *   Name:  "GPUs (all regions)"
+
+
+    If you don't see "Compute Engine API", you can jump tp the next section and create a VM from a Google Instance. Once it is done, it will remind you to increase the quota for GPU.
+
 5.  You will now see a list of metrics, one for each zone. Select the zone that is
-    best for you.  NYU students should select "us-east1".  
+    best for you.
 6.  After you have selected the item, select "Edit Quotas" at the top of the page.
     You will be prompted to answer some questions on why you need the GPUs.
     Request at least one more GPU.
@@ -47,13 +50,12 @@ the software installed.  The steps are as follows:
     zones have GPUs.
     * Machine type:  2 vCPUs with 13 GB memory  
     * Check "Enable access to Jupyter Lab via URL"
-    * Set Boot disk to 30 GB
+    * Set Boot disk to 100 GB
     
     In addition, for GPU instances, select:
     * GPUs:  1 NVIDIA Tesla P100 
     * Check Install NVIDIA GPU driver
-3.  Look at the price on the right.  It should be around 1.29 cents per hour
-    in the us-east1-b zone for GPU instances.  So be very careful with using these machines!*	
+3.  Look at the price on the right.  Depending on the CPU/GPU/Storage requested, the price could vary greatly (Few cent to few dollars per hour) So be very careful with using these machines!*	
 4.  Select "Deploy".      The VM will now take several minutes to deploy.
 5.  Now go to the [instance listing page](https://console.cloud.google.com/compute/instances).
     You should see your instance and should be running.  You can connect to it via SSH
@@ -73,61 +75,14 @@ We next need to reconfigure the VM.
     *   Change the IP type of your VM instance to static.
     *   If you don't reserve a static IP address, you will have to enter the
         dynamic IP address each time.
+6. You can start/stop your VM instances at anytime on the  [instance listing page](https://console.cloud.google.com/compute/instances). Don't forget to stop your VM when you are not using it to avoid extra fee.
         
 
 
-## Connect to your VM Instance
+## Access Jupyter notebook on the VM
 
-You can connect to your instance via browser through the 
-[instance listing page](https://console.cloud.google.com/compute/instances).
-Alternatively, you can connect from a third party SSH client which may have
-more features.  We provide [instructions for using third party clients](./terminal.md).
-        
+1. Navigate to the [Google AI Platform page](https://console.cloud.google.com/ai-platform), and click "Notebooks on the left". You will see a list of VM instances that have Jupyterlabs.
 
-## Modify Jupyter installation for external access
+2. Start the instance and click "OPEN JUPYTERLAB". 
 
-The Google VM instances come with Tensorflow and jupyter notebook pre-installed.
-We just have to re-configure them for external access.
-1.  SSH into the VM
-2.  [Optional] For security, you can add a password for access to Jupyter Notebook.
-But, if you do not use this, the system will automatically use a token.  If you prefer
-a password, generate a `sha1` hashed password:
-```bash
-    python3
-    >>> from notebook.auth import passwd
-    >>> passwd()
-```
-
-This will prompt you to enter a password and then will produce a long string like
-`'sha1:e079...'`  Once this is diplayed, type `exit` to exit the `python` shell.
-
-3.  Modify jupyter config file.  You can use any text editor.  The code below
-assumes you use  `vi`, but you can use any editor of your choice like `nano`.
-```bash
-   jupyter notebook --generate-config
-   vi .jupyter/jupyter_notebook_config.py
-```
-4.  You will now be viewing the `jupyter config` file.
-Uncomment and modify existing lines, or add these new ones:
-    * `c.NotebookApp.ip = '0.0.0.0'`
-    * `c.NotebookApp.port = 8888 # or some other custom port`
-    * `c.NotebookApp.password = u'sha1:sdasd...' # sha1 hash generated from previous step`
-    * `c.NotebookApp.open_browser = False`
-5. Start the jupyter notebook server as a background process:
-```bash
-    jupyter notebook &
-```
-The jupyter notebook will remain active as long as the SSH remains open.
-Alternatively, in the previous step you can use `nohup jupyter notebook&`
-and then jupyter notebook will remain open even if you close the SSH session.
-
-## Open up the Firewall to Allow Outside Traffic
-We need to modify the network settings to open up external access.
-
-1.	Navigate to the Networking page on the Google Cloud console.
-2.	Create a new firewall rule:
-    * Source filter: Allow from any source.
-    * Allowed protocols and ports: `tcp:80, 8888` (or whatever custom port you used before)
-    * Targets: All instances in the network. If you specify a target tag, your VM instance must have a matching network tag or the firewall rule will not apply.
-3.	You should now be able to access the remote jupyter notebook GUI through your local browser.
-Just type your instance's external IP as the URL: `[IP_ADDRESS]:[PORT#]`
+3. [Optional] You can connect your Jupyterlab with your Github repo in the opened Jupyter notebook session.
