@@ -7,7 +7,7 @@ Many of the demos and labs in the class use the powerful
 and edit documents with live python code and rich comments and images.  It is ideal for 
 teaching.  You can install Jupyter notebook and other software
 on any personal computer (Windows, Mac or Unix):
-* Install [jupyter notebook and Python](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html).
+* Install [jupyter notebook and Python using Anaconda](https://www.anaconda.com).
   Make sure you install Python 3 for the demos in these tutorials.
 * Follow the [github instructions](./github.md) to install
 [github](https://guides.github.com/) and download the course material.
