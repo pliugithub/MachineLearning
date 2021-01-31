@@ -36,10 +36,16 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
-     [[Powerpoint]](./lectures/Lect01_IntroML.pptx)    
-     * [Lecture videos]()
-     * [Demo:  Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
-    
+     [[Powerpoint]](./lectures/Lect01_IntroML.pptx)
+     * [Demo: Github](./Basics/github.md)
+     * [Demo: Setting up the environment on a local machine](./Basics/Setup.md)
+     * [Demo: Google Cloud Platform](./GCP/readme.md)
+     * [Demo: Python Tutorial](./unit01_intro/Python_tutorial.ipynb)
+     * [Demo: Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
+     * [Demo: Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
+     
+
+
 **Links below are not available yet.**
     
 
