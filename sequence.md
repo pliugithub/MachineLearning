@@ -48,9 +48,9 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
     * [Demo:  Understanding automobile mpg](./unit02_simp_lin_reg/demo_auto_mpg.ipynb)
-    * Homework (Due on Feb 15, 23;59PM ET)
+    * Homework (Due on Feb 22, 23:59 PM ET)
         * Problem[[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf) [[Latex]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.tex)
-        * [Lab: Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) 
+        * [Lab: Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
 
 **Links below are not available yet.**
     
