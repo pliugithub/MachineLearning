@@ -52,19 +52,20 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problem[[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf) [[Latex]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.tex)
         * [Lab: Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
 
-**Links below are not available yet.**
-    
-
-
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
-     [[Powerpoint]](./lectures/Lect03_MultLinRegression.pptx)    
-    * [Lecture videos](./unit03_mult_lin_reg/online/readme.md)
+     [[Powerpoint]](./lectures/Lect03_MultLinRegression.pptx)
     * [Demo 1:  Predicting glucose levels](./unit03_mult_lin_reg/demo1_glucose.ipynb)
     * [Demo 2:  Python broadcasting](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
     * [In-class Exercise](./unit03_mult_lin_reg/linreg_inclass.ipynb)
-    * [Lab: Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
-    * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf) [[Latex]](./unit03_mult_lin_reg/prob/prob_mult_reg.tex)
+    * Homework
+        * [Lab: Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
+        * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf) [[Latex]](./unit03_mult_lin_reg/prob/prob_mult_reg.tex)
+
+**Links below are not available yet.**
+
+
+
 * Unit 4:  Model selection
     * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
      [[Powerpoint]](./lectures/Lect04_ModelSelection.pptx)    
