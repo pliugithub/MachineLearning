@@ -56,24 +56,28 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
      [[Powerpoint]](./lectures/Lect03_MultLinRegression.pptx)
     * [Demo 1:  Predicting glucose levels](./unit03_mult_lin_reg/demo1_glucose.ipynb)
-    * [Demo 2:  Python broadcasting](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
+    * [Demo 2:  Python broadcasting(Optional)](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
     * [In-class Exercise](./unit03_mult_lin_reg/linreg_inclass.ipynb)
-    * Homework
+    * Homework (Due on March 1, 23:59 PM ET)
         * [Lab: Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
-        * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf) [[Latex]](./unit03_mult_lin_reg/prob/prob_mult_reg.tex)
+        * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf)
+
+* Unit 4:  Model selection
+    * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
+     [[Powerpoint]](./lectures/Lect04_ModelSelection.pptx)    
+    * [Demo 1:  Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
+    * [Demo 2:  Feature transforms and model validation(Optional)](./unit04_model_sel/demo2_transform.ipynb)
+    * Homework (Due on March 8, 23:59 PM ET)
+        * [Lab: Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
+        * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
 
 **Links below are not available yet.**
 
 
 
-* Unit 4:  Model selection
-    * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
-     [[Powerpoint]](./lectures/Lect04_ModelSelection.pptx)    
-    * [Lecture videos](./unit04_model_sel/online/readme.md)     
-    * [Demo 1:  Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
-    * [Demo 2:  Feature transforms and model validation](./unit04_model_sel/demo2_transform.ipynb)
-    * [Lab: Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
-    * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf) [[Latex]](./unit03_model_sel/hw/hw03_model_sel.tex)    
+
+
+
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
      [[Powerpoint]](./lectures/Lect05_Lasso.pptx)        
