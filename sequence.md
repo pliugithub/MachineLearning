@@ -95,12 +95,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
     * Lecture:  Linear classification and logistic regression
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
-    [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx) 
-    * [Lecture videos](./unit06_logistic/online/readme.md)            
+    [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
     * [Demo:  Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-    * [Lab: Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
-    * Problems [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
-    [[Latex]](./unit06_logistic/prob/prob_logistic.tex) 
+   
+    * Homework (Due on March 13, 23:59 PM ET) 
+        * Problems [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
+        * [Lab: Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
+    
 * [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
     * Lecture:  Nonlinear optimization and gradient descent
     [[pdf]](./lectures/Lect07_Optim.pdf)
