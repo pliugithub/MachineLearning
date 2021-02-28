@@ -27,11 +27,6 @@ Go to the [units sequence](sequence.md) for all the material for the
 machine learning course divided into units.  Each unit includes
 slides, python demos, problems and labs.
 
-## Online material including videos
-
-We have also begun recording [videos](online_class.md) for a fully online version
-of the class.
-
 ## Feedback
 
 Any feedback is welcome.  If you find errors, have ideas for improvements,

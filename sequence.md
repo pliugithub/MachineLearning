@@ -7,8 +7,7 @@ and two weeks so that the entire class can be fit into a single semester.
 Most units currently have four or five components:
 * **Lecture Notes**:  These are slides accompanying the class lecture.  They include code snippets
    from the demos.   
-* **Lecture Videos**:  These are videos of the lectures.  Right now, the videos
-   for only a few units have been recorded, but I am hoping to add more.
+* **Lecture Videos**:  These lecture videos are available on NYUClasses website.
 * **Demo**: These are python-based [Jupyter notebooks](http://jupyter.org/)
    for demonstrations given during the lectures.  Some demos have a
    component that is done in class.  The demos do not generally cover
@@ -50,8 +49,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo:  Understanding automobile mpg](./unit02_simp_lin_reg/demo_auto_mpg.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
     * Homework (Due on Feb 22, 23:59 PM ET)
-        * Problem[[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf) [[Latex]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.tex)
-        * [Lab: Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
+        * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
+        * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
 
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
@@ -61,7 +60,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
     * [In-class Exercise](./unit03_mult_lin_reg/linreg_inclass.ipynb)
     * Homework (Due on March 1, 23:59 PM ET)
-        * [Lab: Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
+        * Lab: [Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
         * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf)
 
 * Unit 4:  Model selection
@@ -70,7 +69,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 1:  Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
     * [Demo 2:  Feature transforms and model validation(Optional)](./unit04_model_sel/demo2_transform.ipynb)
     * Homework (Due on March 6, 23:59 PM ET)
-        * [Lab: Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
+        * Lab: [Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
         * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
 
 * Unit 5:  Regularization and LASSO
@@ -79,10 +78,28 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 1:  Predicting prostate cancer](./unit05_lasso/demo1_prostate.ipynb)      
     * [Demo 2:  Predicting housing prices](./unit05_lasso/demo2_housing.ipynb)
     * Homework (Due on March 12, 23:59 PM ET) 
-        * [Lab: EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
+        * Lab: [EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
         * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
 
+* [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
+    * Lecture:  Linear classification and logistic regression
+    [[pdf]](./lectures/Lect06_LogisticReg.pdf)
+    [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
+    * [Demo:  Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
+   
+    * Homework (Due on March 15, 23:59 PM ET) 
+        * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
+        * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
+* [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
+    * Lecture:  Nonlinear optimization and gradient descent
+    [[pdf]](./lectures/Lect07_Optim.pdf)
+    [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
+    * [Demo 1:  Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
+    * [Demo 2:  Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
+     * Homework (Due on March 22, 23:59 PM ET) 
+        * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
+        * Problems [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
 **Links below are not available yet.**
 
@@ -92,26 +109,10 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 
 
-* [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
-    * Lecture:  Linear classification and logistic regression
-    [[pdf]](./lectures/Lect06_LogisticReg.pdf)
-    [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
-    * [Demo:  Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-   
-    * Homework (Due on March 13, 23:59 PM ET) 
-        * Problems [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
-        * [Lab: Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
+
     
-* [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
-    * Lecture:  Nonlinear optimization and gradient descent
-    [[pdf]](./lectures/Lect07_Optim.pdf)
-    [[Powerpoint]](./lectures/Lect07_Optim.pptx)         
-    * [Lecture videos](./unit07_optim/online/readme.md)      
-    * [Demo 1:  Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
-    * [Demo 2:  Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * [Lab: Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
-    * Problems [[pdf]](./unit07_optim/prob/prob_optim.pdf)
-    [[Latex]](./unit07_optim/prob/prob_optim.tex)
+
+    
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
     [[Powerpoint]](./lectures/Lect08_SVM.pptx)      
