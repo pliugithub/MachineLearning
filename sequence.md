@@ -100,7 +100,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
- [Unit 8:  Support vector machines](./unit08_svm/readme.md)
+* [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
     [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
     * [Demo 1:  MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
@@ -122,7 +122,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     
 
     
-*
+
 
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
