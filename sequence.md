@@ -86,7 +86,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
     [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
     * [Demo:  Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-    * Homework (Due on March 15, 23:59 PM ET) 
+    * Homework (Due on March 17, 23:59 PM ET) 
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
@@ -96,9 +96,19 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
     * [Demo 1:  Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * [Demo 2:  Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (Due on April 5, 23:59 PM ET) 
+    * Homework (Due on March 22, 23:59 PM ET) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
+
+ [Unit 8:  Support vector machines](./unit08_svm/readme.md)
+    * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
+    [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
+    * [Demo 1:  MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
+    * [Demo 2:  Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
+    * Homework (Due on April 5, 23:59 PM ET) 
+        * [Lab: Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
+        * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
+
 
 **Links below are not available yet.**
 
@@ -112,15 +122,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     
 
     
-* [Unit 8:  Support vector machines](./unit08_svm/readme.md)
-    * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
-    [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
-    * [Demo 1:  MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
-    * [Demo 2:  Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
-    * Homework (Due on March 22, 23:59 PM ET) 
-        * [Lab: Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
-        * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
-
+*
 
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
