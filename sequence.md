@@ -36,17 +36,17 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
      [[Powerpoint]](./lectures/Lect01_IntroML.pptx)
-     * [Demo: Github](./Basics/github.md)
-     * [Demo: Setting up the environment on a local machine](./Basics/setup.md)
-     * [Demo: Google Cloud Platform](./GCP/readme.md)
-     * [Demo: Python Tutorial](./unit01_intro/Python_tutorial.ipynb)
-     * [Demo: Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
-     * [Demo: Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
+     * Demo: [Github](./Basics/github.md)
+     * Demo: [Setting up the environment on a local machine](./Basics/setup.md)
+     * Demo: [Google Cloud Platform](./GCP/readme.md)
+     * Demo: [Python Tutorial](./unit01_intro/Python_tutorial.ipynb)
+     * Demo: [Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
+     * Demo: [Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
      
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
-    * [Demo:  Understanding automobile mpg](./unit02_simp_lin_reg/demo_auto_mpg.ipynb)
+    * Demo: [Understanding automobile mpg](./unit02_simp_lin_reg/demo_auto_mpg.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
     * Homework (Due on Feb 22, 23:59 PM ET)
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
@@ -55,10 +55,10 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
      [[Powerpoint]](./lectures/Lect03_MultLinRegression.pptx)
-    * [Demo 1:  Predicting glucose levels](./unit03_mult_lin_reg/demo1_glucose.ipynb)
-    * [Demo 2:  Python broadcasting(Optional)](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
+    * Demo 1: [Predicting glucose levels](./unit03_mult_lin_reg/demo1_glucose.ipynb)
+    * Demo 2: [Python broadcasting(Optional)](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
-    * [In-class Exercise](./unit03_mult_lin_reg/linreg_inclass.ipynb)
+    * In-class Exercise: [Linear regression](./unit03_mult_lin_reg/linreg_inclass.ipynb)
     * Homework (Due on March 1, 23:59 PM ET)
         * Lab: [Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
         * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf)
@@ -66,8 +66,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Unit 4:  Model selection
     * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
      [[Powerpoint]](./lectures/Lect04_ModelSelection.pptx)    
-    * [Demo 1:  Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
-    * [Demo 2:  Feature transforms and model validation(Optional)](./unit04_model_sel/demo2_transform.ipynb)
+    * Demo 1: [Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
+    * Demo 2: [Feature transforms and model validation(Optional)](./unit04_model_sel/demo2_transform.ipynb)
     * Homework (Due on March 6, 23:59 PM ET)
         * Lab: [Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
         * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
@@ -75,8 +75,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
      [[Powerpoint]](./lectures/Lect05_Lasso.pptx)   
-    * [Demo 1:  Predicting prostate cancer](./unit05_lasso/demo1_prostate.ipynb)      
-    * [Demo 2:  Predicting housing prices](./unit05_lasso/demo2_housing.ipynb)
+    * Demo 1: [Predicting prostate cancer](./unit05_lasso/demo1_prostate.ipynb)      
+    * Demo 2: [Predicting housing prices](./unit05_lasso/demo2_housing.ipynb)
     * Homework (Due on March 12, 23:59 PM ET) 
         * Lab: [EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
         * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
@@ -85,7 +85,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Lecture:  Linear classification and logistic regression
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
     [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
-    * [Demo:  Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
+    * Demo: [Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
     * Homework (Due on March 17, 23:59 PM ET) 
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
@@ -94,20 +94,32 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Lecture:  Nonlinear optimization and gradient descent
     [[pdf]](./lectures/Lect07_Optim.pdf)
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
-    * [Demo 1:  Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
-    * [Demo 2:  Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (Due on March 22, 23:59 PM ET) 
+    * Demo 1: [Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
+    * Demo 2: [Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
+    * Homework (Due on March 24, 23:59 PM ET) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
     [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
-    * [Demo 1:  MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
-    * [Demo 2:  Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
+    * Demo 1: [MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
+    * Demo 2: [Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
     * Homework (Due on April 5, 23:59 PM ET) 
-        * [Lab: Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
+        * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
+
+* [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
+    * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
+    [[Powerpoint]](./lectures/Lect09_NeuralNet.pptx) 
+    * Supplementary notes with solved problems [[pdf]](./unit09_neural/prob/supplementary_neural.pdf) [[Latex]](./unit09_neural/prob/supplementary_neural.tex)
+    * Demo 1: [First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
+    * Demo 2: [MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
+    * In-class:[Exercise](./unit09_neural/neural_inclass.ipynb)
+    * Homework (Due on April 12, 23:59 PM ET) 
+        * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
+        * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
+
 
 
 **Links below are not available yet.**
@@ -124,16 +136,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     
 
 
-* [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
-    * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
-    [[Powerpoint]](./lectures/Lect09_NeuralNet.pptx)         
-    * [Lecture videos](./unit09_neural/online/readme.md)   
-    * Supplementary notes with solved problems [[pdf]](./unit09_neural/prob/supplementary_neural.pdf) [[Latex]](./unit09_neural/prob/supplementary_neural.tex)
-    * [Demo 1: First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
-    * [Demo 2: MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
-    * [Lab:  Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
-    * [In-class Exercise](./unit09_neural/neural_inclass.ipynb)
-    * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf) [[Latex]](./unit09_neural/prob/prob_neural.tex)    
+
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
     [[pdf]](./lectures/Lect10_ConvNet.pdf)

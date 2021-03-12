@@ -1,0 +1,381 @@
+\documentclass[11pt]{article}
+
+\usepackage{fullpage}
+\usepackage{amsmath, amssymb, bm, cite, epsfig, psfrag}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{listings}
+\usepackage{cite}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{enumerate}
+\usepackage{listings}
+\usepackage{mathtools}
+\lstloadlanguages{Python}
+\usetikzlibrary{shapes,arrows}
+%\usetikzlibrary{dsp,chains}
+
+\DeclareFixedFont{\ttb}{T1}{txtt}{bx}{n}{9} % for bold
+\DeclareFixedFont{\ttm}{T1}{txtt}{m}{n}{9}  % for normal
+% Defining colors
+\usepackage{color}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+%\restylefloat{figure}
+%\theoremstyle{plain}      \newtheorem{theorem}{Theorem}
+%\theoremstyle{definition} \newtheorem{definition}{Definition}
+
+\def\del{\partial}
+\def\ds{\displaystyle}
+\def\ts{\textstyle}
+\def\beq{\begin{equation}}
+\def\eeq{\end{equation}}
+\def\beqa{\begin{eqnarray}}
+\def\eeqa{\end{eqnarray}}
+\def\beqan{\begin{eqnarray*}}
+\def\eeqan{\end{eqnarray*}}
+\def\nn{\nonumber}
+\def\binomial{\mathop{\mathrm{binomial}}}
+\def\half{{\ts\frac{1}{2}}}
+\def\Half{{\frac{1}{2}}}
+\def\N{{\mathbb{N}}}
+\def\Z{{\mathbb{Z}}}
+\def\Q{{\mathbb{Q}}}
+\def\R{{\mathbb{R}}}
+\def\C{{\mathbb{C}}}
+\def\argmin{\mathop{\mathrm{arg\,min}}}
+\def\argmax{\mathop{\mathrm{arg\,max}}}
+%\def\span{\mathop{\mathrm{span}}}
+\def\diag{\mathop{\mathrm{diag}}}
+\def\x{\times}
+\def\limn{\lim_{n \rightarrow \infty}}
+\def\liminfn{\liminf_{n \rightarrow \infty}}
+\def\limsupn{\limsup_{n \rightarrow \infty}}
+\def\GV{Guo and Verd{\'u}}
+\def\MID{\,|\,}
+\def\MIDD{\,;\,}
+
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{corollary}{Corollary}
+\newtheorem{assumption}{Assumption}
+\newtheorem{claim}{Claim}
+\def\qed{\mbox{} \hfill $\Box$}
+\setlength{\unitlength}{1mm}
+
+\def\bhat{\widehat{b}}
+\def\ehat{\widehat{e}}
+\def\phat{\widehat{p}}
+\def\qhat{\widehat{q}}
+\def\rhat{\widehat{r}}
+\def\shat{\widehat{s}}
+\def\uhat{\widehat{u}}
+\def\ubar{\overline{u}}
+\def\vhat{\widehat{v}}
+\def\xhat{\widehat{x}}
+\def\xbar{\overline{x}}
+\def\zhat{\widehat{z}}
+\def\zbar{\overline{z}}
+\def\la{\leftarrow}
+\def\ra{\rightarrow}
+\def\MSE{\mbox{\small \sffamily MSE}}
+\def\SNR{\mbox{\small \sffamily SNR}}
+\def\SINR{\mbox{\small \sffamily SINR}}
+\def\arr{\rightarrow}
+\def\Exp{\mathbb{E}}
+\def\var{\mbox{var}}
+\def\Tr{\mbox{Tr}}
+\def\tm1{t\! - \! 1}
+\def\tp1{t\! + \! 1}
+\def\Tm1{T\! - \! 1}
+\def\Tp1{T\! + \! 1}
+
+
+\def\Xset{{\cal X}}
+
+\newcommand{\one}{\mathbf{1}}
+\newcommand{\abf}{\mathbf{a}}
+\newcommand{\bbf}{\mathbf{b}}
+\newcommand{\dbf}{\mathbf{d}}
+\newcommand{\ebf}{\mathbf{e}}
+\newcommand{\gbf}{\mathbf{g}}
+\newcommand{\hbf}{\mathbf{h}}
+\newcommand{\pbf}{\mathbf{p}}
+\newcommand{\pbfhat}{\widehat{\mathbf{p}}}
+\newcommand{\qbf}{\mathbf{q}}
+\newcommand{\qbfhat}{\widehat{\mathbf{q}}}
+\newcommand{\rbf}{\mathbf{r}}
+\newcommand{\rbfhat}{\widehat{\mathbf{r}}}
+\newcommand{\sbf}{\mathbf{s}}
+\newcommand{\sbfhat}{\widehat{\mathbf{s}}}
+\newcommand{\ubf}{\mathbf{u}}
+\newcommand{\ubfhat}{\widehat{\mathbf{u}}}
+\newcommand{\utildebf}{\tilde{\mathbf{u}}}
+\newcommand{\vbf}{\mathbf{v}}
+\newcommand{\vbfhat}{\widehat{\mathbf{v}}}
+\newcommand{\wbf}{\mathbf{w}}
+\newcommand{\wbfhat}{\widehat{\mathbf{w}}}
+\newcommand{\xbf}{\mathbf{x}}
+\newcommand{\xbfhat}{\widehat{\mathbf{x}}}
+\newcommand{\xbfbar}{\overline{\mathbf{x}}}
+\newcommand{\ybf}{\mathbf{y}}
+\newcommand{\zbf}{\mathbf{z}}
+\newcommand{\zbfbar}{\overline{\mathbf{z}}}
+\newcommand{\zbfhat}{\widehat{\mathbf{z}}}
+\newcommand{\Ahat}{\widehat{A}}
+\newcommand{\Abf}{\mathbf{A}}
+\newcommand{\Bbf}{\mathbf{B}}
+\newcommand{\Cbf}{\mathbf{C}}
+\newcommand{\Bbfhat}{\widehat{\mathbf{B}}}
+\newcommand{\Dbf}{\mathbf{D}}
+\newcommand{\Gbf}{\mathbf{G}}
+\newcommand{\Hbf}{\mathbf{H}}
+\newcommand{\Ibf}{\mathbf{I}}
+\newcommand{\Kbf}{\mathbf{K}}
+\newcommand{\Pbf}{\mathbf{P}}
+\newcommand{\Phat}{\widehat{P}}
+\newcommand{\Qbf}{\mathbf{Q}}
+\newcommand{\Rbf}{\mathbf{R}}
+\newcommand{\Rhat}{\widehat{R}}
+\newcommand{\Sbf}{\mathbf{S}}
+\newcommand{\Ubf}{\mathbf{U}}
+\newcommand{\Vbf}{\mathbf{V}}
+\newcommand{\Wbf}{\mathbf{W}}
+\newcommand{\Xhat}{\widehat{X}}
+\newcommand{\Xbf}{\mathbf{X}}
+\newcommand{\Ybf}{\mathbf{Y}}
+\newcommand{\Zbf}{\mathbf{Z}}
+\newcommand{\Zhat}{\widehat{Z}}
+\newcommand{\Zbfhat}{\widehat{\mathbf{Z}}}
+\def\alphabf{{\boldsymbol \alpha}}
+\def\betabf{{\boldsymbol \beta}}
+\def\betabfhat{{\widehat{\bm{\beta}}}}
+\def\epsilonbf{{\boldsymbol \epsilon}}
+\def\mubf{{\boldsymbol \mu}}
+\def\lambdabf{{\boldsymbol \lambda}}
+\def\etabf{{\boldsymbol \eta}}
+\def\xibf{{\boldsymbol \xi}}
+\def\taubf{{\boldsymbol \tau}}
+\def\sigmahat{{\widehat{\sigma}}}
+\def\thetabf{{\bm{\theta}}}
+\def\thetabfhat{{\widehat{\bm{\theta}}}}
+\def\thetahat{{\widehat{\theta}}}
+\def\mubar{\overline{\mu}}
+\def\muavg{\mu}
+\def\sigbf{\bm{\sigma}}
+\def\etal{\emph{et al.}}
+\def\Ggothic{\mathfrak{G}}
+\def\Pset{{\mathcal P}}
+\newcommand{\bigCond}[2]{\bigl({#1} \!\bigm\vert\! {#2} \bigr)}
+\newcommand{\BigCond}[2]{\Bigl({#1} \!\Bigm\vert\! {#2} \Bigr)}
+\newcommand{\tran}{^{\text{\sf T}}}
+\newcommand{\herm}{^{\text{\sf H}}}
+\newcommand{\bkt}[1]{{\langle #1 \rangle}}
+\def\Norm{{\mathcal N}}
+\newcommand{\vmult}{.}
+\newcommand{\vdiv}{./}
+
+
+\def\hid{\textsc{\tiny H}}
+\def\out{\textsc{\tiny O}}
+
+% Python style for highlighting
+\newcommand\pythonstyle{\lstset{
+language=Python,
+backgroundcolor=\color{backcolour},
+commentstyle=\color{deepgreen},
+basicstyle=\ttm,
+otherkeywords={self},             % Add keywords here
+keywordstyle=\ttb\color{deepblue},
+emph={MyClass,__init__},          % Custom highlighting
+emphstyle=\ttb\color{deepred},    % Custom highlighting style
+stringstyle=\color{deepgreen},
+%frame=tb,                         % Any extra options here
+showstringspaces=false            %
+}}
+
+% Python environment
+\lstnewenvironment{python}[1][]
+{
+\pythonstyle
+\lstset{#1}
+}
+{}
+
+% Python for external files
+\newcommand\pythonexternal[2][]{{
+\pythonstyle
+\lstinputlisting[#1]{#2}}}
+
+% Python for inline
+\newcommand\pycode[1]{{\pythonstyle\lstinline!#1!}}
+
+\begin{document}
+
+\title{Introduction to Machine Learning\\
+Neural Networks Problems}
+\author{Prof. Sundeep Rangan and Yao Wang}
+\date{}
+
+\maketitle
+
+% Submit answers to only problems 1--3.  But, make sure you know how to do all problems.
+
+\begin{enumerate}
+
+
+
+\item Consider a neural network
+on a 3-dimensional input $\xbf=(x_1,x_2, x_3)$ with weights and biases:
+\[
+    W^\hid = \left[ \begin{array}{ccc} 1 & 0 & 1  \\ 0 & 1  & 1 \\ 1 & 1 & 0 \\ 1 & 1 & 1\\ \end{array} \right], \quad
+    b^\hid = \left[ \begin{array}{c} 0 \\ 0 \\ -1 \\ 1 \end{array} \right] \quad
+    W^\out = [1, 1, -1, -1], \quad b^\out = -1.5.
+\]
+Assume the network uses the
+threshold activation function \eqref{eq:gact_ht}
+\beq \label{eq:gact_ht}
+    g_{\rm act}(z) = \begin{cases}
+        1, & \mbox{if } z \geq 0 \\
+        0, & \mbox{if } z < 0.
+        \end{cases}
+\eeq
+ and the
+threshold output function \eqref{eq:gout_thresh}:
+\beq \label{eq:gout_thresh}
+    \hat{y} =  \begin{cases}
+        1 & z^\out \geq 0 \\
+        0 & z^\out < 0.
+        \end{cases}
+\eeq
+
+
+
+\begin{enumerate}[(a)]
+\item Write the components of $\zbf^\hid$ and $\ubf^\hid$ as a function
+of $(x_1,x_2, x_3)$.  For each component $j$, indicate where in the $(x_1,x_2, x_3)$
+hyperplane $u^\hid_j=1$.
+
+\item Write $z^\out$ as a function of $(x_1,x_2, x_3)$.  In what region is
+$\hat{y}=1$? (You can describe in mathematical formulae).
+\end{enumerate}
+
+
+
+\item Consider a neural network used for regression with a scalar input $x$ and
+scalar target $y$,
+\begin{align*}
+    & z_{j}^\hid = W^\hid_{j}x + b^\hid_j, \quad
+    u_{j}^\hid = \max\{0, z^\hid_j\},
+    \quad j=1,\ldots,N_h \\
+    &
+    z^\out = \sum_{k=1}^{N_h} W^\out_{k}u^\hid_{k} + b^\out,
+    \quad
+    \hat{y} = g_{\rm out}(z^\out).
+\end{align*}
+The hidden weights and biases are:
+\[
+    \Wbf^\hid = \left[ \begin{array}{c} -1  \\ 1  \\  1 \end{array} \right], \quad
+    \bbf^\hid = \left[ \begin{array}{c} -1 \\ 1 \\ -2 \end{array} \right].
+\]
+
+\begin{enumerate}[(a)]
+
+\item What is the number $N_h$ of hidden units?  For each $j=1,\ldots,N_h$,
+draw $u^\hid_j$ as a function of $x$ over some suitable range of values $x$.
+You may draw them on one plot, or on
+multiple plots.
+
+\item Since the network is for regression, you may choose
+the activation function $g_{\rm out}(z^\out)$ to be linear.
+Given training data $(x_i,y_i)$, $i=1,\ldots,N$, formally define the loss function you would use
+to train the network?
+
+\item Using the output activation and loss function selected in part (b), set up the formulation to determine
+output weights and bias, $\Wbf^\out$, $b^\out$,
+for the training data below.  You should be able to find a closed form solution. Write a few line of python code to solve the problem.
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+$x_i$ & -2 & -1 & 0 & 3 & 3.5\\ \hline
+$y_i$ & 0 & 0   & 1 & 3 & 3 \\ \hline
+\end{tabular}
+\end{center}
+
+\item
+ Based on your solution for the output weights and bias,
+draw $\hat{y}$ vs.\ $x$ over some suitable range of values $x$.  Write a few line of python code to do this.
+
+
+
+\item Write a function \pycode{predict} to output $\hat{y}$ given a vector of inputs
+\pycode{x}.  Assume \pycode{x} is a vector representing a batch of samples and
+\pycode{yhat} is a vector with the corresponding outputs.  Use the activation function
+you selected in part (b), but your function should take the weights and biases
+for both layers as inputs.  Clearly state any assumptions on the formats for
+the weights and biases.  Also, to receive full credit, you must not use any for loops.
+\end{enumerate}
+
+\pagebreak
+\item \label{prob:cg_exp}
+Consider a neural network that takes each input $\xbf$ and produces
+a prediction $\hat{y}$ given
+\begin{align} \label{eq:nnmax}
+\begin{split}
+    z_j  &= \sum_{k=1}^{N_i}W_{jk}x_k + b_j, \quad u_j = 1/(1+\exp(-z_j)),
+    \quad j = 1,\ldots,M,\\
+    \hat{y} &= \frac{ \sum_{j=1}^{M} a_j u_j}{ \sum_{j=1}^M u_j},
+\end{split}
+\end{align}
+where $M$ is the number of hidden units and is fixed (i.e.\ not trainable).
+To train the model, we get training data $(\xbf_i,y_i)$, $i=1,\ldots,N$.
+\begin{enumerate}[(a)]
+\item Rewrite the equations \eqref{eq:nnmax} for the
+batch of inputs $\xbf_i$ from the training data.  That is, correctly
+add the indexing $i$, to the equations.
+
+\item If we use a loss function,
+\[
+    L = \sum_{i=1}^N (y_i - \hat{y}_i)^2,
+\]
+draw the computation graph describing the mapping from $\xbf_i$ and parameters
+to $L$.
+Indicate which nodes are trainable parameters.
+
+
+\item Compute the gradient  $\partial L/\partial \hat{y}_i$
+for all $i$.
+
+\item Suppose that, in backpropagation, we have computed $\partial L/\partial \hat{y}_i$
+for all $i$, represented as $\partial L/\partial \hat{\bf y}$. Describe how to compute the components of the gradient
+$\partial L/\partial \ubf$.
+
+\item
+Suppose that we have computed the gradient $\partial L/\partial \ubf$, describe how would you compute the gradient $\partial L/\partial \zbf$.
+
+
+
+\item
+Suppose that we have computed the gradient $\partial L/\partial \zbf$, describe how would you compute the gradient
+ $\partial L/\partial W_{jk}$ and $\partial L/\partial b_j$.
+
+ \item
+ Put all above together, describe how would you compute the gradient  $\partial L/\partial W_{jk}$ and $\partial L/\partial b_j$.
+
+
+\item Write a few lines of python code to implement the gradients  $\partial L/\partial \ubf$ (as in part (d)), given the gradient $\partial L/\partial \hat{\bf y}$.
+Indicate how you represent the gradients.
+Full credit requires that you avoid for-loops.
+
+\end{enumerate}
+
+\end{enumerate}
+\end{document}
+
+c 
