@@ -121,7 +121,21 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
 
-
+* [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
+    * Lecture:  Convolutional and deep networks
+    [[pdf]](./lectures/Lect10_ConvNet.pdf)
+    [[Powerpoint]](./lectures/Lect10_ConvNet.pptx)         
+    * [Setting up a GPU instance](./GCP/gpu_setup.md) (Recommended)
+    * [Demo 1: 2D convolutions and convolutional layers in keras](./unit10_cnn/demo1_convolutions.ipynb)
+    * [Demo 2: Creating an image set using the Flickr API](./unit10_cnn/demo2_flickr_images.ipynb)
+    * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
+    * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
+    * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
+    * Homework (Due on April 19, 23:59 PM ET) 
+        * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
+    (GPU recommended)
+        * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
+        
 **Links below are not available yet.**
 
 
@@ -137,20 +151,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 
 
-* [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
-    * Lecture:  Convolutional and deep networks
-    [[pdf]](./lectures/Lect10_ConvNet.pdf)
-    [[Powerpoint]](./lectures/Lect10_ConvNet.pptx)         
-    * [Setting up a GPU instance](./GCP/gpu_setup.md) (Recommended)
-    * [Lecture videos](./unit10_cnn/online/readme.md)   
-    * [Demo 1: 2D convolutions and convolutional layers in keras](./unit10_cnn/demo1_convolutions.ipynb)
-    * [Demo 2: Creating an image set using the Flickr API](./unit10_cnn/demo2_flickr_images.ipynb)
-    * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
-    * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
-    * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * [Lab:  Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
-    (GPU recommended)
-    * Problems [[pdf]](./unit10_cnn/prob/prob_cnn.pdf) [[Latex]](./unit10_cnn/prob/prob_cnn.tex)
+
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf), Modifed Note [[pdf]](./lectures/Lect11_PCA_modified.pdf)
     [[Powerpoint]](./lectures/Lect11_PCA_modified.pptx)         
