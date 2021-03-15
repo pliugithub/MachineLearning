@@ -1,5 +1,19 @@
-# Setting up CPU and GPU Instances on GCP
+# How to set up lab environment on Google
 
+You can use either Google Colab or set up a virtual machine on Google Cloud Platform (GCP). It is receommended to use Google Colab unless you need to use GPU for long time.
+## Google Colab:
+Colab is a Python development environment that runs in the browser using Google Cloud. You can access it at [Google Colab website](https://colab.research.google.com).
+
+### Requesting free GPU usage
+
+1. Open the jupyter notebook file and click "Runtime" on the menu, and choose "Change runtime type". 
+2. In the Notebook Setting box, choose "GPU" for "Hardware accelerator", and "High Ram" for "Runtime shape".
+
+### Upgrade to Google Colab Pro
+
+If you need priority access to faster GPUs and TPUs, sign up for [paid version for Colab](https://colab.research.google.com/signup).
+
+## Google Cloud Platform (GCP): Setting up CPU and GPU Instances
 This note provides a step by step guide on setting up a 
 [Google Cloud Platform (GCP)](https://cloud.google.com) 
 virtual machine (VM) instance with most of the 
@@ -19,7 +33,7 @@ Note that the per hour costs of GPU instances are much more expensive than
 regular CPU instancess, so you want to make sure you turn off the instances
 you are not using.  
 
-## Requesting GPU quota
+### Requesting GPU quota
 To use a GPU on GCP, you will need to first request GPU access.  For CPU instances, you can skip this step. When you initlialy register for GCP, you will be using the free service and you cannot request GPU quota. To request GPU, you have to upgrade your account to a paid account first.
 1.  Go to the [IAM & admin page](https://console.cloud.google.com/projectselector/iam-admin)
 2.  Select the project you are using or create a new one.
@@ -39,7 +53,7 @@ To use a GPU on GCP, you will need to first request GPU access.  For CPU instanc
     Request at least one more GPU.
 7.  You should hear from them quite fast (sometimes even within the same day!) 
 
-## Creating the VM from a Google instance
+### Creating the VM from a Google instance
 The fastest way to get up and running is to use a pre-built image with all
 the software installed.  The steps are as follows:
 1.  Go to the [Google Deep Learning VM webpage](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/deeplearning).
@@ -61,7 +75,7 @@ the software installed.  The steps are as follows:
     You should see your instance and should be running.  You can connect to it via SSH
     VM by clicking the "SSH". 
 
-## Configuring the VM
+### Configuring the VM
 We next need to reconfigure the VM.
 1.  If the instance is running, stop the VM by selecting the VM on the
     [instance listing page](https://console.cloud.google.com/compute/instances)
@@ -79,7 +93,7 @@ We next need to reconfigure the VM.
         
 
 
-## Access Jupyter notebook on the VM
+### Access Jupyter notebook on the VM
 
 1. Navigate to the [Google AI Platform page](https://console.cloud.google.com/ai-platform), and click "Notebooks" on the left side panel. You will see a list of VM instances that have Jupyterlabs.
 
