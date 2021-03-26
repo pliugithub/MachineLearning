@@ -137,8 +137,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
 
 * [Unit 11:  PCA](./pca/readme.md)
-    * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf), Modifed Note [[pdf]](./lectures/Lect11_PCA_modified.pdf)
-    [[Powerpoint]](./lectures/Lect11_PCA_modified.pptx)          
+    * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf), [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
     * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
     * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
     * Homework (Due on April 26, 23:59 PM ET) 
