@@ -144,6 +144,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
         * Problems [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
         
+
+* [Course projects](./pca/readme.md)
+    * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
+    * Due on the Friday after the final exam. Up to 2 students in a project group.
+    * List of suggested project topics can be found in a directory named projects on the course repo. 
+        * Recently published paper + existing code as a starting point for your projects, you need to extend it.
+
 **Links below are not available yet.**
 
 
