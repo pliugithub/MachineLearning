@@ -142,7 +142,15 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
     * Homework (Due on April 26, 23:59 PM ET) 
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
-        * Problems [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
+        * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
+
+* [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
+    * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
+    [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
+    * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
+    * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
+    * Homework (Due on May 3, 23:59 PM ET)   
+        * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
         
 
 * [Course projects](./pca/readme.md)
@@ -168,12 +176,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 
 
-* [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
-    * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
-    [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
-    * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
-    * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)    
-    * Homework [[pdf]](./unit12_cluster/prob/prob_clustering.pdf) [[Latex]](./unit12_cluster/prob/prob_clustering.tex)
+
 * Unit 13:  Decision Trees and Random Forest
     * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
     [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
