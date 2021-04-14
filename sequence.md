@@ -131,7 +131,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
     * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
     * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * Homework (Due on April 19, 23:59 PM ET) 
+    * Homework (Due on April 26, 23:59 PM ET) 
         * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
@@ -140,7 +140,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
     * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
     * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
-    * Homework (Due on April 26, 23:59 PM ET) 
+    * Homework (Due on May 3, 23:59 PM ET) 
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
         * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
 
@@ -149,7 +149,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
     * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
     * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
-    * Homework (Due on May 3, 23:59 PM ET)   
+    * Homework (Due on May 10, 23:59 PM ET)   
         * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
         
 
