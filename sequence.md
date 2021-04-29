@@ -153,7 +153,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
         
 
-* [Course projects](./pca/readme.md)
+* [Course projects](./projects/readme.md)
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
     * Due on the Friday after the final exam. Up to 2 students in a project group.
     * List of suggested project topics can be found in a directory named projects on the course repo. 
