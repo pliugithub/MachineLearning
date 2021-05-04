@@ -159,27 +159,28 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * List of suggested project topics can be found in a directory named projects on the course repo. 
         * Recently published paper + existing code as a starting point for your projects, you need to extend it.
 
-**Links below are not available yet.**
-
-
-
-
-
-
-
-
-    
-
-    
-
-
-
-
-
-
 * Unit 13:  Decision Trees and Random Forest
     * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
     [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
     * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
-    * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf) [[Latex]](./unit13_tree/prob/prob_tree.tex)
+    * Homework (***Due on Sunday May 16, 23:59 PM ET***)   
+        * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
 
