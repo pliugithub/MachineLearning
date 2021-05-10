@@ -152,6 +152,12 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on May 10, 23:59 PM ET)   
         * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
         
+* Unit 13:  Decision Trees and Random Forest
+    * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
+    [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
+    * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
+    * Homework (***Will NOT be graded***)   
+        * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
 
 * [Course projects](./projects/readme.md)
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
@@ -159,12 +165,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * List of suggested project topics can be found in a directory named projects on the course repo. 
         * Recently published paper + existing code as a starting point for your projects, you need to extend it.
 
-* Unit 13:  Decision Trees and Random Forest
-    * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
-    [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
-    * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
-    * Homework (***Due on Sunday May 16, 23:59 PM ET***)   
-        * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
+
 
 
 
