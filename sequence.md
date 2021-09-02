@@ -24,7 +24,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* [Spring 2021 Syllabus](./lectures/GY6143_ML_Syllabus_S21.pdf)
+* [Fall 2021 Syllabus](./lectures/GY6143_ML_Syllabus_F21.pdf)
 
 * [Setting up python, jupyter and github](./Basics/setup.md)
     * [Set up a local machine](./Basics/setup.md)
