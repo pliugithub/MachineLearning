@@ -7,7 +7,7 @@ and two weeks so that the entire class can be fit into a single semester.
 Most units currently have four or five components:
 * **Lecture Notes**:  These are slides accompanying the class lecture.  They include code snippets
    from the demos.   
-* **Lecture Videos**:  These lecture videos are available on NYUClasses website.
+* **Lecture Videos**:  These lecture videos are available on Brightspace.
 * **Demo**: These are python-based [Jupyter notebooks](http://jupyter.org/)
    for demonstrations given during the lectures.  Some demos have a
    component that is done in class.  The demos do not generally cover
@@ -26,7 +26,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * [Fall 2021 Syllabus](./lectures/GY6143_ML_Syllabus_F21.pdf)
 
-* [Setting up python and jupyter notebook](./Basics/setup.md)
+* Setting up python and jupyter notebook
     * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
     * [Or set up a local machine](./Basics/setup.md)
     * [Or set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)
@@ -34,8 +34,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
  * [Setting up github](./Basics/github.md)   
     * [Downloading the course material from github](./Basics/github.md)
 
-<span style="color:red">------Materials below are outdated and will be updated before each class.------</span>
-
+`------Materials below are outdated and will be updated before each class.------`
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
     
