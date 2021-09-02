@@ -26,9 +26,12 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * [Fall 2021 Syllabus](./lectures/GY6143_ML_Syllabus_F21.pdf)
 
-* [Setting up python, jupyter and github](./Basics/setup.md)
-    * [Set up a local machine](./Basics/setup.md)
-    * [Set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)    
+* [Setting up python and jupyter notebook](./Basics/setup.md)
+    * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
+    * [Or set up a local machine](./Basics/setup.md)
+    * [Or set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)
+
+ * [Setting up github](./Basics/github.md)   
     * [Downloading the course material from github](./Basics/github.md)
 
 <span style="color:red">------Materials below are outdated and will be updated before each class.------</span>

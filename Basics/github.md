@@ -28,15 +28,15 @@ Open a command shell or comand window (in Windows, you can use the
 In the command shell type:
 ~~~bash
     > cd [directory where you want the files on your machine]
-    > git clone https://github.com/sdrangan/introml.git
+    > git clone https://github.com/pliugithub/MachineLearning.git
 ~~~
-This will create a directory `introml` with all the files.  You are
+This will create a directory `MachineLearning` with all the files.  You are
 now ready to go!
 * The repository will change over the course of the class and I will update
 material.  To update your local version at any time, open the command
 window and type:
 ~~~bash
-    > cd introml
+    > cd MachineLearning
     > git pull
 ~~~
 
