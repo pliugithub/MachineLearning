@@ -29,7 +29,10 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * [Setting up python, jupyter and github](./Basics/setup.md)
     * [Set up a local machine](./Basics/setup.md)
     * [Set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)    
-    * [Downloading the course material from github](./Basics/github.md)    
+    * [Downloading the course material from github](./Basics/github.md)
+
+<span style="color:red">------Materials below are outdated and will be updated before each class.------</span>
+
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
     
