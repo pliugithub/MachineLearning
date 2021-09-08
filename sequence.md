@@ -34,7 +34,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
  * [Setting up github](./Basics/github.md)   
     * [Downloading the course material from github](./Basics/github.md)
 
-`------Materials below are outdated and will be updated before each class.------`
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
     
@@ -47,6 +46,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      * Demo: [Python Tutorial](./unit01_intro/Python_tutorial.ipynb)
      * Demo: [Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
      * Demo: [Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
+
+`------Materials below are outdated and will be updated before each class.------`
      
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
