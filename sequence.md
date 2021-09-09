@@ -46,17 +46,18 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      * Demo: [Python Tutorial](./unit01_intro/Python_tutorial.ipynb)
      * Demo: [Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
      * Demo: [Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
-
-`------Materials below are outdated and will be updated before each class.------`
      
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
     * Demo: [Understanding automobile mpg](./unit02_simp_lin_reg/demo_auto_mpg.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
-    * Homework (Due on Feb 22, 23:59 PM ET)
+    * Homework (Due on Sept 22, 23:59 PM ET)
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
         * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
+
+
+`------Materials below are outdated and will be updated before each class.------`
 
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
