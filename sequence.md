@@ -7,7 +7,8 @@ and two weeks so that the entire class can be fit into a single semester.
 Most units currently have four or five components:
 * **Lecture Notes**:  These are slides accompanying the class lecture.  They include code snippets
    from the demos.   
-* **Lecture Videos**:  These lecture videos are available on Brightspace.
+* **Lecture Videos**:  The lecture videos are available on Brightspace.
+* **Whiteboard**: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)
 * **Demo**: These are python-based [Jupyter notebooks](http://jupyter.org/)
    for demonstrations given during the lectures.  Some demos have a
    component that is done in class.  The demos do not generally cover
@@ -24,9 +25,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* Syllabus: [Fall 2021](./lectures/GY6143_ML_Syllabus_F21.pdf)
-* Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
-* Class Videos: Link to class videos are on Brightspace.
+* Syllabus: [Fall 2021](./lectures/GY6143_ML_Syllabus_F21.pdf)   
 
 * Setting up python and jupyter notebook
     * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
