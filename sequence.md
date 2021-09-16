@@ -24,7 +24,9 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* [Fall 2021 Syllabus](./lectures/GY6143_ML_Syllabus_F21.pdf)
+* Syllabus: [Fall 2021](./lectures/GY6143_ML_Syllabus_F21.pdf)
+* Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
+* Class Videos: Link to class videos are on Brightspace.
 
 * Setting up python and jupyter notebook
     * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
@@ -56,9 +58,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
         * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
 
-
-`------Materials below are outdated and will be updated before each class.------`
-
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
      [[Powerpoint]](./lectures/Lect03_MultLinRegression.pptx)
@@ -66,9 +65,11 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Demo 2: [Python broadcasting(Optional)](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
     * In-class Exercise: [Linear regression](./unit03_mult_lin_reg/linreg_inclass.ipynb)
-    * Homework (Due on March 1, 23:59 PM ET)
+    * Homework (Due on on Sept 29, 23:59 PM ET)
         * Lab: [Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
         * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf)
+
+`------Materials below are outdated and will be updated before each class.------`
 
 * Unit 4:  Model selection
     * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
