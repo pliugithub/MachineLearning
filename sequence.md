@@ -68,16 +68,16 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
         * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf)
 
-`------Materials below are outdated and will be updated before each class.------`
-
 * Unit 4:  Model selection
     * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
      [[Powerpoint]](./lectures/Lect04_ModelSelection.pptx)    
     * Demo 1: [Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
     * Demo 2: [Feature transforms and model validation(Optional)](./unit04_model_sel/demo2_transform.ipynb)
-    * Homework (Due on March 6, 23:59 PM ET)
+    * Homework (Due on Oct 6, 23:59 PM ET)
         * Lab: [Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
         * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
+
+`------Materials below are outdated and will be updated before each class.------`
 
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
