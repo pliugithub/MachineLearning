@@ -133,9 +133,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Recently published paper + existing code as a starting point for your projects, you need to extend it.
         * You are free to choose a topic not listed here.
 
-
-`------Materials below are outdated and will be updated before each class.------`
-
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
     [[pdf]](./lectures/Lect10_ConvNet.pdf)
@@ -146,10 +143,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
     * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
     * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * Homework (Due on April 26, 23:59 PM ET) 
+    * Homework (Due on November 24, 23:59 PM ET) 
         * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
+
+`------Materials below are outdated and will be updated before each class.------`
+
 
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
