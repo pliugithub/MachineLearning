@@ -157,15 +157,16 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
         * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
 
-`------Materials below are outdated and will be updated before each class.------`
 
 * [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
     * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
     [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
     * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
     * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
-    * Homework (Due on May 10, 23:59 PM ET)   
+    * Homework (Due on December 8, 23:59 PM ET)   
         * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
+
+`------Materials below are outdated and will be updated before each class.------`
         
 * Unit 13:  Decision Trees and Random Forest
     * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
