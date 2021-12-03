@@ -165,24 +165,28 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
     * Homework (***Will NOT be graded***)   
         * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
+        
 
-* [Final Exam and Course Projects](./projects/readme.md)
-    * <span style="color:red"> Final Exam will be on Dec 15 @6PM.</span>
+* Final Exam
+    * :bell: :bell: :bell: Final Exam will be on Dec 15 @6PM.
+
+* [Course Project](./projects/readme.md)
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
     * One or two students in a project group.
     * List of suggested project topics can be found [here](./projects/readme.md). 
         * Recently published paper + existing code as a starting point for your projects.
         * You are free to choose a topic not listed here.
-    * The project to be different than something you can directly find in a blog post or Kaggle. You should always add references to data/code/sentences you copied online.
+    * What do we expect?
+        * The project to be different than something you can directly find in a blog post or Kaggle. You should always add references to data/code/sentences you copied online.
         * You can try to improve the accuracy reported in a blog post; 
         * You can train on additional data and test on real-world data that you collected yourself;
         * You can change the model, try parameter optimization etc; 
         * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
         * If you cannot make improvements, tell us why it failed and what are the lessons learned.
-    * <span style="color:red"> Project report is due on the Dec 22, 23:59 PM ET.</span>
+    * :bell: :bell: :bell:Project report is due on the Dec 22, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
-        * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what the motivation, why it can be solved by ML and the tool you picked, how much improvements you made, summary/future directions/lessons learned. Be concise!
+        * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
         * The report should be formated as a paper of few pages long. 
     * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
     * Make sure you don't plagiarise. Please clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
