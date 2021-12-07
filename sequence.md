@@ -185,6 +185,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * If you cannot make improvements, tell us why it failed and what are the lessons learned.
     * :bell::bell::bell: Project report is due on the Dec 22, 23:59 PM ET.
         * Submit your code and report on Gradescope;
+        * Follow the submission guidelines listed [here](./projects/submission.md)
         * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
         * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
         * The report should be formated as a paper of few pages long. 
