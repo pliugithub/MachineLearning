@@ -13,3 +13,10 @@ Submit one pdf document consisting of and ordered accordingly:
   
   
   # Match the pdf with gradescope items.
+
+
+
+----
+
+# Submit your package to the source code assignment on gradescope seperately.
+Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it
