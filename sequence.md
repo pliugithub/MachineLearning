@@ -25,7 +25,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* Syllabus: [Fall 2021](./lectures/GY6143_ML_Syllabus_F21.pdf)   
+* Syllabus: [Spring 2022](./lectures/GY6143_ML_Syllabus_S22.pdf)   
 
 * Setting up python and jupyter notebook
     * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
@@ -37,6 +37,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
+
+`------Materials below are outdated and will be updated before each class.------`
     
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
@@ -192,7 +194,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
     * Make sure you don't plagiarise. Please clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
 
-`------Materials below are outdated and will be updated before each class.------`
+
         
 
 
