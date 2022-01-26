@@ -39,7 +39,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
 
-`------Materials below are outdated and will be updated before each class.------`
     
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
@@ -51,6 +50,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      * Demo: [Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
      * Demo: [Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
      
+`------Materials below are outdated and will be updated before each class.------`
+
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
