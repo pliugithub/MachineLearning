@@ -30,10 +30,10 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * Setting up python and jupyter notebook
     * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
-    * [Or set up a local machine](./Basics/setup.md)
-    * [Or set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)
+    * [Set up a local machine(Need this to generate PDF for homework submissions)](./Basics/setup.md)
+    * [Or set up a CPU or GPU virtual machine in Google Cloud Platform (Not recommended for beginners)](./GCP/getting_started.md)
 
- * [Setting up github](./Basics/github.md)   
+ * Setting up github
     * [Downloading the course material from github](./Basics/github.md)
 
 * Introduction

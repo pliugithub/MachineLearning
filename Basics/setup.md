@@ -10,10 +10,8 @@ on any personal computer (Windows, Mac or Unix):
 * Install [jupyter notebook and Python using Anaconda](https://www.anaconda.com).
   Make sure you install Python 3 for the demos in these tutorials.
 * Follow the [github instructions](./github.md) to install
-[github](https://guides.github.com/) and download the course material.
-* Later tutorials will require that you install [Tensorflow](https://www.tensorflow.org/install/).
+[github](https://guides.github.com/) and download the course material. (DON'T need if you use Google Colab)
+* Later tutorials will require that you install [Tensorflow](https://www.tensorflow.org/install/). (DON'T need if you use Google Colab)
 
-If you do not wish to run the code on your personal machine, all the software can
-also be run in the cloud.  We provide detailed 
-[instructions](./GCP/readme.md) on setting up a VM for this class in 
-[Google Cloud Platform](https://cloud.google.com).
+# Google Colab does not always generate PDF correctly. 
+It is recommended that you install Anaconda even if you use Colab to run your experiments. When you are ready to submit homework, restart the kernel and re-run your code on Colab. Then download the .ipynb file into your local computer. Open it with your local Anaconda Jupyter Notebook App and generate the .pdf file for submission. 
