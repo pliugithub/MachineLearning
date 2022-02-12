@@ -30,16 +30,15 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * Setting up python and jupyter notebook
     * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
-    * [Or set up a local machine](./Basics/setup.md)
-    * [Or set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)
+    * [Set up a local machine(Need this to generate PDF for homework submissions)](./Basics/setup.md)
+    * [Or set up a CPU or GPU virtual machine in Google Cloud Platform (Not recommended for beginners)](./GCP/getting_started.md)
 
- * [Setting up github](./Basics/github.md)   
+ * Setting up github
     * [Downloading the course material from github](./Basics/github.md)
 
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
 
-`------Materials below are outdated and will be updated before each class.------`
     
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
@@ -56,7 +55,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
     * Demo: [Understanding automobile mpg](./unit02_simp_lin_reg/demo_auto_mpg.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
-    * Homework (Due on Sept 22, 23:59 PM ET)
+    * Homework (Due on Feb 8, 23:59 PM ET)
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
         * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
 
@@ -67,9 +66,11 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Demo 2: [Python broadcasting(Optional)](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
     * In-class Exercise: [Linear regression](./unit03_mult_lin_reg/linreg_inclass.ipynb)
-    * Homework (Due on on Sept 29, 23:59 PM ET)
+    * Homework (Due on on Feb 15, 23:59 PM ET)
         * Lab: [Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
         * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf)
+
+`------Materials below are outdated and will be updated before each class.------`
 
 * Unit 4:  Model selection
     * Lecture:  Model selection [[pdf]](./lectures/Lect04_ModelSelection.pdf)
