@@ -88,14 +88,12 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
         * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
 
-`------Materials below are outdated and will be updated before each class.------`
-
 * [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
     * Lecture:  Linear classification and logistic regression
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
     [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
     * Demo: [Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-    * Homework (Due on Oct 20, 23:59 PM ET) 
+    * Homework (Due on Mar 8, 23:59 PM ET) 
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
@@ -105,9 +103,17 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
     * Demo 1: [Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * Demo 2: [Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (No submission required! Solution will be released early for you to prepare for the exam.) 
+    * Homework (Due on Mar 21, 23:59 PM ET, MONDAY after the spring break! Solution will be released on March 22, 0:01AM for you to prepare for the exam.) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
+
+* Midterm Exam
+    * :bell::bell::bell: Midterm exam on Mar 22 @6PM.
+        * Closebook exam, no electronic aids allowed.
+        * Two pages of cheat sheets allowed, you can write on both sides.
+        * Unless you have been approved by NYU, you have to take the exam in-person. 
+
+`------Materials below are outdated and will be updated before each class.------`
 
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
