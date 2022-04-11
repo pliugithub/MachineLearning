@@ -134,8 +134,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
 
-`------Materials below are outdated and will be updated before each class.------`
-
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
     [[pdf]](./lectures/Lect10_ConvNet.pdf)
@@ -146,17 +144,16 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
     * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
     * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * Homework (Due on November 24, 23:59 PM ET) 
+    * Homework (Due on Apr 19, 23:59 PM ET) 
         * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
-
 
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
     * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
     * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
-    * Homework (Due on December 1, 23:59 PM ET) 
+    * Homework (Due on Apr 26, 23:59 PM ET) 
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
         * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
 
@@ -166,7 +163,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
     * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
     * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
-    * Homework (Due on December 8, 23:59 PM ET)   
+    * Homework (Due on May 3, 23:59 PM ET)   
         * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
 
 * Unit 13:  Decision Trees and Random Forest
@@ -178,7 +175,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         
 
 * Final Exam
-    * :bell::bell::bell: Final Exam will be on Dec 15 @6PM.
+    * :bell::bell::bell: Final Exam will be on May 10 @6PM.
 
 * [Course Project](./projects/readme.md)
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
@@ -193,7 +190,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * You can change the model, try parameter optimization etc; 
         * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
         * If you cannot make improvements, tell us why it failed and what are the lessons learned.
-    * :bell::bell::bell: Project report is due on the Dec 22, 23:59 PM ET.
+    * :bell::bell::bell: Project report is due on the May 17, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * Follow the submission guidelines listed [here](./projects/submission.md)
         * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
@@ -208,6 +205,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 
 
+`------Materials below are outdated and will be updated before each class.------`
 
 
 
