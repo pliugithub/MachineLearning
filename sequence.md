@@ -179,6 +179,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * [Course Project](./projects/readme.md)
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
+    * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
+    * Make sure you don't plagiarise. Please clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
     * One or two students in a project group.
     * List of suggested project topics can be found [here](./projects/readme.md). 
         * Recently published paper + existing code as a starting point for your projects.
@@ -196,8 +198,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
         * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
         * The report should be formated as a paper of few pages long. 
-    * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
-    * Make sure you don't plagiarise. Please clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
+
 
 
         
