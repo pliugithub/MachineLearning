@@ -25,7 +25,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* Syllabus: [Spring 2022](./lectures/GY6143_ML_Syllabus_F22.pdf)
+* Syllabus: [Fall 2022](./lectures/GY6143_ML_Syllabus_F22.pdf)
    * [NYU Tandon Policies and Procedures on Academic Misconduct](https://engineering.nyu.edu/student-life/student-activities/office-student-affairs/policies/code-conduct#chapter-id-34265)
 
 * Setting up python and jupyter notebook
