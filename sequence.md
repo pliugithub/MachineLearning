@@ -25,7 +25,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* Syllabus: [Spring 2022](./lectures/GY6143_ML_Syllabus_S22.pdf)
+* Syllabus: [Spring 2022](./lectures/GY6143_ML_Syllabus_F22.pdf)
    * [NYU Tandon Policies and Procedures on Academic Misconduct](https://engineering.nyu.edu/student-life/student-activities/office-student-affairs/policies/code-conduct#chapter-id-34265)
 
 * Setting up python and jupyter notebook
@@ -38,6 +38,9 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
+
+
+`------Materials below are from previous semesters and might be updated before each class.------`    
 
     
 * Unit 1:  What is machine learning? 
@@ -206,7 +209,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 
 
-`------Materials below are outdated and will be updated before each class.------`
 
 
 
