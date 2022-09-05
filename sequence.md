@@ -7,7 +7,7 @@ and two weeks so that the entire class can be fit into a single semester.
 Most units currently have four or five components:
 * **Lecture Notes**:  These are slides accompanying the class lecture.  They include code snippets
    from the demos.   
-* **Lecture Videos**:  The lecture videos are available on Brightspace.
+* **Lecture Videos**:  The lecture videos from previous semesters are available on Brightspace(Might not up-to-date).
 * **Whiteboard**: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)
 * **Demo**: These are python-based [Jupyter notebooks](http://jupyter.org/)
    for demonstrations given during the lectures.  Some demos have a
@@ -39,9 +39,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
 
-
-`------Materials below are from previous semesters and might be updated before each class.------`    
-
     
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
@@ -52,7 +49,11 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      * Demo: [Python Tutorial](./unit01_intro/Python_tutorial.ipynb)
      * Demo: [Introduction to numpy vectors](./unit01_intro/demo_intro_vectors.ipynb)
      * Demo: [Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
+     * Homework: Get familiar with Github/Google Colab. Please also review the Python tutorial and introduction to numpy, even if you are familiar with Python. Homework submission is not required.
      
+
+`------Materials below are from previous semesters and might be updated before each class.------`    
+
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
