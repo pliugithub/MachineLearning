@@ -101,7 +101,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 
 * Midterm Exam
-    * :bell::bell::bell: Midterm exam on Oct 24 @5PM.
+    * :bell::bell::bell: Midterm exam on Tuesday Oct 25 @5PM.
         * Closebook exam, no electronic aids allowed.
         * Two pages of cheat sheets allowed, you can write on both sides.
 
