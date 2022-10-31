@@ -99,13 +99,10 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
-
 * Midterm Exam
     * :bell::bell::bell: Midterm exam on Tuesday Oct 25 @5PM.
         * Closebook exam, no electronic aids allowed.
         * Two pages of cheat sheets allowed, you can write on both sides.
-
-`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
     * Lecture:  Nonlinear optimization and gradient descent
@@ -113,9 +110,33 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
     * Demo 1: [Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * Demo 2: [Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (Due on Mar 21, 23:59 PM ET, MONDAY after the spring break! Solution will be released on March 22, 0:01AM for you to prepare for the exam.) 
+    * Homework (Due on Nov 8, 23:59 PM ET) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
+
+* [Course Project](./projects/readme.md)
+    * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
+    * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
+    * Make sure you don't plagiarise. Please clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
+    * One or two students in a project group.
+    * List of suggested project topics can be found [here](./projects/readme.md). 
+        * Recently published paper + existing code as a starting point for your projects.
+        * You are free to choose a topic not listed here.
+    * What do we expect?
+        * The project to be different than something you can directly find in a blog post or Kaggle. You should always add references to data/code/sentences you copied online.
+        * You can try to improve the accuracy reported in a blog post; 
+        * You can train on additional data and test on real-world data that you collected yourself;
+        * You can change the model, try parameter optimization etc; 
+        * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
+        * If you cannot make improvements, tell us why it failed and what are the lessons learned.
+    * :bell::bell::bell: Project report is due on the May 17, 23:59 PM ET.
+        * Submit your code and report on Gradescope;
+        * Follow the submission guidelines listed [here](./projects/submission.md)
+        * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
+        * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
+        * The report should be formated as a paper of few pages long. 
+        
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
@@ -181,27 +202,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Final Exam
     * :bell::bell::bell: Final Exam will be on May 10 @6PM.
 
-* [Course Project](./projects/readme.md)
-    * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
-    * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
-    * Make sure you don't plagiarise. Please clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
-    * One or two students in a project group.
-    * List of suggested project topics can be found [here](./projects/readme.md). 
-        * Recently published paper + existing code as a starting point for your projects.
-        * You are free to choose a topic not listed here.
-    * What do we expect?
-        * The project to be different than something you can directly find in a blog post or Kaggle. You should always add references to data/code/sentences you copied online.
-        * You can try to improve the accuracy reported in a blog post; 
-        * You can train on additional data and test on real-world data that you collected yourself;
-        * You can change the model, try parameter optimization etc; 
-        * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
-        * If you cannot make improvements, tell us why it failed and what are the lessons learned.
-    * :bell::bell::bell: Project report is due on the May 17, 23:59 PM ET.
-        * Submit your code and report on Gradescope;
-        * Follow the submission guidelines listed [here](./projects/submission.md)
-        * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
-        * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
-        * The report should be formated as a paper of few pages long. 
+
 
 
 
