@@ -129,13 +129,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * You can change the model, try parameter optimization etc; 
         * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
         * If you cannot make improvements, tell us why it failed and what are the lessons learned.
-    * :bell::bell::bell: Project report is due on the May 17, 23:59 PM ET.
+    * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * Follow the submission guidelines listed [here](./projects/submission.md)
         * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
         * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
         * The report should be formated as a paper of few pages long. 
-        
+
 `------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
