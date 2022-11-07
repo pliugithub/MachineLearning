@@ -136,16 +136,16 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
         * The report should be formated as a paper of few pages long. 
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
     [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
     * Demo 1: [MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
     * Demo 2: [Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
-    * Homework (Due on Apr 5, 23:59 PM ET) 
+    * Homework (Due on Nov 15, 23:59 PM ET) 
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
