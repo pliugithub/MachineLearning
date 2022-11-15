@@ -114,6 +114,66 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
+* [Unit 8:  Support vector machines](./unit08_svm/readme.md)
+    * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
+    [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
+    * Demo 1: [MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
+    * Demo 2: [Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
+    * Homework (Due on Nov 15, 23:59 PM ET) 
+        * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
+        * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
+
+* [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
+    * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
+    [[Powerpoint]](./lectures/Lect09_NeuralNet.pptx) 
+    * Supplementary notes with solved problems [[pdf]](./unit09_neural/prob/supplementary_neural.pdf) [[Latex]](./unit09_neural/prob/supplementary_neural.tex)
+    * Demo 1: [First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
+    * Demo 2: [MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
+    * In-class:[Exercise](./unit09_neural/neural_inclass.ipynb)
+    * Homework (Due on Nov 22, 23:59 PM ET) 
+        * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
+        * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
+
+
+* [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
+    * Lecture:  Convolutional and deep networks
+    [[pdf]](./lectures/Lect10_ConvNet.pdf)
+    [[Powerpoint]](./lectures/Lect10_ConvNet.pptx)         
+    * [Setting up a GPU instance](./GCP/getting_started.md) (Recommended)
+    * [Demo 1: 2D convolutions and convolutional layers in keras](./unit10_cnn/demo1_convolutions.ipynb)
+    * [Demo 2: Creating an image set using the Flickr API](./unit10_cnn/demo2_flickr_images.ipynb)
+    * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
+    * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
+    * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
+    * Homework (Due on Nov 29, 23:59 PM ET) 
+        * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
+    (GPU recommended)
+        * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
+
+* [Unit 11:  PCA](./pca/readme.md)
+    * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
+    * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
+    * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
+    * Homework (Due on Dec 6, 23:59 PM ET) 
+        * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
+        * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
+
+
+* [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
+    * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
+    [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
+    * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
+    * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
+    * Homework (Due on Dec 13, 23:59 PM ET)   
+        * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
+
+* Unit 13:  Decision Trees and Random Forest
+    * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
+    [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
+    * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
+    * Homework (***No submission, will NOT be graded***)   
+        * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
+
 * [Course Project](./projects/readme.md)
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
     * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
@@ -136,75 +196,11 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
         * The report should be formated as a paper of few pages long. 
 
-* [Unit 8:  Support vector machines](./unit08_svm/readme.md)
-    * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
-    [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
-    * Demo 1: [MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
-    * Demo 2: [Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
-    * Homework (Due on Nov 15, 23:59 PM ET) 
-        * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
-        * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
-
-`------Materials below are from previous semesters and might be updated before each class.------`
-
-* [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
-    * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
-    [[Powerpoint]](./lectures/Lect09_NeuralNet.pptx) 
-    * Supplementary notes with solved problems [[pdf]](./unit09_neural/prob/supplementary_neural.pdf) [[Latex]](./unit09_neural/prob/supplementary_neural.tex)
-    * Demo 1: [First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
-    * Demo 2: [MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
-    * In-class:[Exercise](./unit09_neural/neural_inclass.ipynb)
-    * Homework (Due on Apr 12, 23:59 PM ET) 
-        * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
-        * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
-
-
-* [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
-    * Lecture:  Convolutional and deep networks
-    [[pdf]](./lectures/Lect10_ConvNet.pdf)
-    [[Powerpoint]](./lectures/Lect10_ConvNet.pptx)         
-    * [Setting up a GPU instance](./GCP/getting_started.md) (Recommended)
-    * [Demo 1: 2D convolutions and convolutional layers in keras](./unit10_cnn/demo1_convolutions.ipynb)
-    * [Demo 2: Creating an image set using the Flickr API](./unit10_cnn/demo2_flickr_images.ipynb)
-    * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
-    * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
-    * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * Homework (Due on Apr 19, 23:59 PM ET) 
-        * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
-    (GPU recommended)
-        * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
-
-* [Unit 11:  PCA](./pca/readme.md)
-    * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
-    * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
-    * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
-    * Homework (Due on Apr 26, 23:59 PM ET) 
-        * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
-        * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
-
-
-* [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
-    * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
-    [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
-    * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
-    * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
-    * Homework (Due on May 3, 23:59 PM ET)   
-        * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
-
-* Unit 13:  Decision Trees and Random Forest
-    * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
-    [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
-    * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
-    * Homework (***Will NOT be graded***)   
-        * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
-        
 
 * Final Exam
-    * :bell::bell::bell: Final Exam will be on May 10 @6PM.
+    * :bell::bell::bell: Final Exam will be on Dec 20 @5PM. Focused on the topics taught after the midterm exam. 
 
-
-
-
+`------Materials below are from previous semesters and might be updated before each class.------`
 
         
 
