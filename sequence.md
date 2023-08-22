@@ -25,7 +25,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* Syllabus: [Fall 2022](./lectures/GY6143_ML_Syllabus_F22.pdf)
+* Syllabus: [Fall 2023](./lectures/GY6143_ML_Syllabus_F23.pdf)
    * [NYU Tandon Policies and Procedures on Academic Misconduct](https://engineering.nyu.edu/student-life/student-activities/office-student-affairs/policies/code-conduct#chapter-id-34265)
 
 * Setting up python and jupyter notebook
@@ -39,6 +39,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
 
+`------Materials below are from previous semesters and might be updated before each class.------`
     
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
@@ -86,7 +87,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      [[Powerpoint]](./lectures/Lect05_Lasso.pptx)   
     * Demo 1: [Predicting prostate cancer](./unit05_lasso/demo1_prostate.ipynb)      
     * Demo 2: [Predicting housing prices](./unit05_lasso/demo2_housing.ipynb)
-    * Homework (Due on Oct 18, 23:59 PM ET) 
+    * Homework (Due on Oct 11, 23:59 PM ET) 
         * Lab: [EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
         * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
 
@@ -95,12 +96,12 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
     [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
     * Demo: [Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-    * Homework (:bell:Due on Oct 24, 23:59 PM ET, Monday night, not Tuesday!) 
+    * Homework (:bell:Due on Oct 17, 23:59 PM ET, Tuesday night, not Wednesday!) 
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
 * Midterm Exam
-    * :bell::bell::bell: Midterm exam on Tuesday Oct 25 @5PM.
+    * :bell::bell::bell: Midterm exam on Wednesday Oct 18 @5PM.
         * Closebook exam, no electronic aids allowed.
         * Two pages of cheat sheets allowed, you can write on both sides.
 
@@ -110,7 +111,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
     * Demo 1: [Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * Demo 2: [Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (Due on Nov 8, 23:59 PM ET) 
+    * Homework (Due on Nov 1, 23:59 PM ET) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
@@ -119,7 +120,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
     * Demo 1: [MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
     * Demo 2: [Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
-    * Homework (Due on Nov 15, 23:59 PM ET) 
+    * Homework (Due on Nov 8, 23:59 PM ET) 
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
 
@@ -130,7 +131,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Demo 1: [First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
     * Demo 2: [MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
     * In-class:[Exercise](./unit09_neural/neural_inclass.ipynb)
-    * Homework (Due on Nov 22, 23:59 PM ET) 
+    * Homework (Due on Nov 15, 23:59 PM ET) 
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
@@ -200,7 +201,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Final Exam
     * :bell::bell::bell: Final Exam will be on Dec 20 @5PM. Focused on the topics taught after the midterm exam. 
 
-`------Materials below are from previous semesters and might be updated before each class.------`
+
 
         
 
