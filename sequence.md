@@ -38,8 +38,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
-
-`------Materials below are from previous semesters and might be updated before each class.------`
     
 * Unit 1:  What is machine learning? 
     * Lecture:  Introduction to Machine Learning [[pdf]](./lectures/Lect01_IntroML.pdf)
@@ -61,6 +59,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on Sept 20, 23:59 PM ET)
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
         * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
