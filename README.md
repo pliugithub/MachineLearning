@@ -21,7 +21,7 @@ with some programming language (preferably object-oriented) is required.
 * To follow all the mathematical details and to complete the homework exercises,
 the class assumes undergraduate probability, linear algebra and multi-variable calculus.
 
-## Start the course
+## [Start the course](sequence.md)
 
 Go to the [units sequence](sequence.md) for all the material for the
 machine learning course divided into units.  Each unit includes
