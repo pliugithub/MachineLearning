@@ -60,8 +60,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
         * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
      [[Powerpoint]](./lectures/Lect03_MultLinRegression.pptx)
@@ -81,6 +79,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on Oct 4, 23:59 PM ET)
         * Lab: [Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
         * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
