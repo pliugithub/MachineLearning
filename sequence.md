@@ -80,8 +80,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
         * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
      [[Powerpoint]](./lectures/Lect05_Lasso.pptx)   
@@ -90,6 +88,9 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on Oct 11, 23:59 PM ET) 
         * Lab: [EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
         * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
+
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
     * Lecture:  Linear classification and logistic regression
