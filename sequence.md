@@ -80,8 +80,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
         * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
      [[Powerpoint]](./lectures/Lect05_Lasso.pptx)   
@@ -96,7 +94,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
     [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
     * Demo: [Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-    * Homework (:bell:Due on Oct 17, 23:59 PM ET, Tuesday night, not Wednesday!) 
+    * Homework (:bell:Due on Oct 18, 11:59 AM ET, Wednesday Noon, not by the end of the day!!!) 
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
@@ -104,6 +102,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * :bell::bell::bell: Midterm exam on Wednesday Oct 18 @5PM.
         * Closebook exam, no electronic aids allowed.
         * Two pages of cheat sheets allowed, you can write on both sides.
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
     * Lecture:  Nonlinear optimization and gradient descent
