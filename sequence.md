@@ -89,9 +89,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
         * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
 
-
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
     * Lecture:  Linear classification and logistic regression
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
