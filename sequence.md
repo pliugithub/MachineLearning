@@ -103,8 +103,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Closebook exam, no electronic aids allowed.
         * Two pages of cheat sheets allowed, you can write on both sides.
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
     * Lecture:  Nonlinear optimization and gradient descent
     [[pdf]](./lectures/Lect07_Optim.pdf)
@@ -114,6 +112,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on Nov 1, 23:59 PM ET) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
