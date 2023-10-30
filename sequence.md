@@ -103,8 +103,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Closebook exam, no electronic aids allowed.
         * Two pages of cheat sheets allowed, you can write on both sides.
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
     * Lecture:  Nonlinear optimization and gradient descent
     [[pdf]](./lectures/Lect07_Optim.pdf)
@@ -123,6 +121,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on Nov 8, 23:59 PM ET) 
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
