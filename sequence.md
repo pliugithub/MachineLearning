@@ -184,7 +184,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
             * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
             * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
             * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.  
-    * One or two students in a project group.
     * What should be the right topic? You are encouraged to solve something related to what we taught in the classroom. Gather your data and think about what kind of algorithm is the best fit for your problem and try different parameter/network structure.
         * Find some realworld data and use machine learning to solve it. For example, [NYC OpenData](https://opendata.cityofnewyork.us) has lots of data avaliable. If you are doing image recgnization, You could take some photos and test.
         * List of suggested project topics can be found [here](./projects/readme.md). This can be starting point for your projects.
@@ -197,12 +196,12 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * You can change the model, try parameter optimization etc; 
         * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
         * If you cannot make improvements, tell us why it failed and what are the lessons learned.
+        * Try not to use a very large model or something you don't fully understand (such as a transformer models for NLP). It would be difficult to train or explain what is your contribution.
+    * One or two students in a project group.
     * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * Follow the submission guidelines listed [here](./projects/submission.md)
-        * Make sure we can duplicate your results. If you used some data that is not publicly available online, please upload to Google drive/Dropbox/Github so that we can access it;
-        * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
-        * The report should be formated as a paper of few pages long. 
+        
 
 
 * Final Exam
