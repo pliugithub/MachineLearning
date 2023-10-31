@@ -178,11 +178,18 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * [Course Project](./projects/readme.md)
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
     * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
-    * Make sure you don't plagiarise. Please clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
+    * Make sure you don't **plagiarise**. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
+        * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
+            * Put quotation marks at the beginning and end of all copied text. 
+            * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
+            * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
+            * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.  
     * One or two students in a project group.
-    * List of suggested project topics can be found [here](./projects/readme.md). 
-        * Recently published paper + existing code as a starting point for your projects.
+    * What should be the right topic? You are encouraged to solve something related to what we taught in the classroom. Gather your data and think about what kind of algorithm is the best fit for your problem and try different parameter/network structure.
+        * Find some realworld data and use machine learning to solve it. For example, [NYC OpenData](https://opendata.cityofnewyork.us) has lots of data avaliable. If you are doing image recgnization, You could take some photos and test.
+        * List of suggested project topics can be found [here](./projects/readme.md). This can be starting point for your projects.
         * You are free to choose a topic not listed here.
+        * Try your best NOT to copy code and dataset from some website and just change few parameters. Your grade will not be high.
     * What do we expect?
         * The project to be different than something you can directly find in a blog post or Kaggle. You should always add references to data/code/sentences you copied online.
         * You can try to improve the accuracy reported in a blog post; 
