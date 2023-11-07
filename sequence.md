@@ -122,8 +122,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
     [[Powerpoint]](./lectures/Lect09_NeuralNet.pptx) 
@@ -135,6 +133,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
