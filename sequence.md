@@ -133,8 +133,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
     [[pdf]](./lectures/Lect10_ConvNet.pdf)
@@ -149,6 +147,9 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
+
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
