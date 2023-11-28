@@ -148,9 +148,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
 
-
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
     * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
@@ -159,6 +156,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
         * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
 
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
     * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
