@@ -18,8 +18,8 @@ BE UNIQUE. Your project has to be significantly different than anything you can 
  	* [Security and robustness](./Security_and_robustness.pdf)
 
 * What do we expect?
- * You should always add references to any data/code/tables/figures/sentences you copied from somewhere.
- * You can train on additional data and test on real-world data that you collected yourself;
- * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
- * If you cannot make improvements, tell us why it failed and what are the lessons learned.
- * Try not to use a very large model or something you don't fully understand (such as a transformer models for NLP). It would be difficult to train or explain what is your contribution.
+	* You should always add references to any data/code/tables/figures/sentences you copied from somewhere.
+	* You can train on additional data and test on real-world data that you collected yourself;
+	* You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
+ 	* If you cannot make improvements, tell us why it failed and what are the lessons learned.
+	* Try not to use a very large model or something you don't fully understand (such as a transformer models for NLP). It would be difficult to train or explain what is your contribution.
