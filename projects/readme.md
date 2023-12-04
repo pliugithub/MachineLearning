@@ -8,15 +8,14 @@ BE UNIQUE. Your project has to be significantly different than anything you can 
 * Find some real-world data and use machine learning to solve it. For example, [NYC OpenData](https://opendata.cityofnewyork.us) has lots of data available. 
 * Most importantly, try your best NOT to copy code and dataset from some website and just change few parameters. Your grade will not be high.
 * List of suggested some project topics are listed below. You are free to choose a topic not listed here. However, make sure you don't simply copy the code and just change few parameters. Instead, look at them as an example of how to apply ML to various problem.
-        
- * [Audio: Music](./Audio(music).pdf)
- * [Audio: Speech](./Audio(speech).pdf)
- * [Generating images](./Generatingimages.pdf)
- * [Generating text](./Generatingtext.pdf)
- * [Understanding images](./Understanding_images.pdf)
- * [Understanding text](./Understanding_text.pdf)
- * [ML and society: Fairness, privacy, explainability](./ML_and_society.pdf)
- * [Security and robustness](./Security_and_robustness.pdf)
+ 	* [Audio: Music](./Audio(music).pdf)
+ 	* [Audio: Speech](./Audio(speech).pdf)
+ 	* [Generating images](./Generatingimages.pdf)
+ 	* [Generating text](./Generatingtext.pdf)
+ 	* [Understanding images](./Understanding_images.pdf)
+ 	* [Understanding text](./Understanding_text.pdf)
+ 	* [ML and society: Fairness, privacy, explainability](./ML_and_society.pdf)
+ 	* [Security and robustness](./Security_and_robustness.pdf)
 
 * What do we expect?
  * You should always add references to any data/code/tables/figures/sentences you copied from somewhere.
