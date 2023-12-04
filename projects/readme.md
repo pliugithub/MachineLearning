@@ -2,7 +2,7 @@
 
 # List of project topics
 
-BE UNIQUE. Your project has to be significantly different than anything you can directly find in a blog post, textbook or Kaggle. The purpose of the project is to encourage you to solve a practical problem that you are interested in, based on what we taught in the classroom. Thus you should
+Your project has to be significantly different than anything you can directly find in a blog post, textbook or Kaggle. The purpose of the project is to encourage you to solve a practical problem that you are interested in, based on what we taught in the classroom. Thus you should
 
 * Think of a problem of your own, gather your data and think about what kind of algorithm is the best fit for your problem and try different parameter/network structure. For example, how about you write a letter on a piece of paper, present it to your computer camera and recognize it in realtime using SVM or CNN? How can you make sure you can still recognize it if it is upside down?
 * Find some real-world data and use machine learning to solve it. For example, [NYC OpenData](https://opendata.cityofnewyork.us) has lots of data available. 

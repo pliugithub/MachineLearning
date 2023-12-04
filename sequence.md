@@ -181,11 +181,11 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
             * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
             * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.
     * One or two students in a project group. One submission per team.
-    * List of suggested project topics can be found [here](./projects/readme.md) 
+    * BE UNIQUE. Your project has to be significantly different than anything you can directly find in a blog post, textbook or Kaggle. List of suggested project topics can be found [here](./projects/readme.md).
     * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
         * Submit your code and report on Gradescope;
-        * If you worked in a team, make sure only submit once and link all names to the submission in Gradescope.
-        * Follow the submission guidelines listed [here](./projects/submission.md)
+        * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
+        * Follow the submission guidelines listed [here](./projects/submission.md).
 
 * Final Exam
     * :bell::bell::bell: Final Exam will be on Dec 20 @5PM. Focused on the topics taught after the midterm exam. 
