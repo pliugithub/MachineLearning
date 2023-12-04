@@ -156,8 +156,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
         * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
     * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
     [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
@@ -181,12 +179,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
             * Put quotation marks at the beginning and end of all copied text. 
             * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
             * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
-            * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.  
-    * What should be the right topic? You are encouraged to solve something related to what we taught in the classroom. Gather your data and think about what kind of algorithm is the best fit for your problem and try different parameter/network structure.
-        * Find some realworld data and use machine learning to solve it. For example, [NYC OpenData](https://opendata.cityofnewyork.us) has lots of data avaliable. If you are doing image recgnization, You could take some photos and test.
-        * List of suggested project topics can be found [here](./projects/readme.md). This can be starting point for your projects.
-        * You are free to choose a topic not listed here.
-        * Try your best NOT to copy code and dataset from some website and just change few parameters. Your grade will not be high.
+            * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.
     * What do we expect?
         * The project to be different than something you can directly find in a blog post or Kaggle. You should always add references to data/code/sentences you copied online.
         * You can try to improve the accuracy reported in a blog post; 
@@ -196,6 +189,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * If you cannot make improvements, tell us why it failed and what are the lessons learned.
         * Try not to use a very large model or something you don't fully understand (such as a transformer models for NLP). It would be difficult to train or explain what is your contribution.
     * One or two students in a project group.
+    * List of suggested project topics can be found [here](./projects/readme.md) 
     * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * Follow the submission guidelines listed [here](./projects/submission.md)
@@ -206,6 +200,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * :bell::bell::bell: Final Exam will be on Dec 20 @5PM. Focused on the topics taught after the midterm exam. 
 
 
+`------Materials below are from previous semesters and might be updated before each class.------`
 
         
 

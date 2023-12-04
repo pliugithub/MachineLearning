@@ -1,12 +1,14 @@
-[Home](../sequence.md) - Projects
+[Home](../sequence.md) - Project Ideas
 
 # List of project topics
 
-* Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
-* Due on the Friday after the final exam. Up to 2 students in a project group.
-* List of suggested project topics can be found in a directory named projects on the course repo. 
-* Recently published paper + existing code as a starting point for your projects, you need to extend it.
-* You are free to choose a project topic that is NOT in this list.
+* You are encouraged to solve something related to what we taught in the classroom. Gather your data and think about what kind of algorithm is the best fit for your problem and try different parameter/network structure.
+ * Find some real-world data and use machine learning to solve it. For example, [NYC OpenData](https://opendata.cityofnewyork.us) has lots of data available. 
+ * Generate your own data. For example, how about you write a letter on a piece of paper, present it to your computer camera and recognize it in realtime using SVM or CNN? How can you make sure you can still recognize it if it is upside down?
+ * Most importantly, try your best NOT to copy code and dataset from some website and just change few parameters. Your grade will not be high.
+ * List of suggested some project topics are listed below. You are free to choose a topic not listed here. However, make sure you don't simply copy the code and just change few parameters. Instead, look at them as an example of how to apply ML to various problem.
+        
+
 
 
 * [Audio: Music](./Audio(music).pdf)
