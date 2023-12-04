@@ -180,21 +180,12 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
             * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
             * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
             * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.
-    * What do we expect?
-        * The project to be different than something you can directly find in a blog post or Kaggle. You should always add references to data/code/sentences you copied online.
-        * You can try to improve the accuracy reported in a blog post; 
-        * You can train on additional data and test on real-world data that you collected yourself;
-        * You can change the model, try parameter optimization etc; 
-        * You can compare different models and report their success, what kind of datapoints are usually missed with what models etc;
-        * If you cannot make improvements, tell us why it failed and what are the lessons learned.
-        * Try not to use a very large model or something you don't fully understand (such as a transformer models for NLP). It would be difficult to train or explain what is your contribution.
-    * One or two students in a project group.
+    * One or two students in a project group. One submission per team.
     * List of suggested project topics can be found [here](./projects/readme.md) 
     * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
         * Submit your code and report on Gradescope;
+        * If you worked in a team, make sure only submit once and link all names to the submission in Gradescope.
         * Follow the submission guidelines listed [here](./projects/submission.md)
-        
-
 
 * Final Exam
     * :bell::bell::bell: Final Exam will be on Dec 20 @5PM. Focused on the topics taught after the midterm exam. 
