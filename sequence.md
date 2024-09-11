@@ -51,16 +51,17 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      * Homework: Get familiar with Github/Google Colab. Please also review the Python tutorial and introduction to numpy, even if you are familiar with Python. Homework submission is not required.
      
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
      [[Powerpoint]](./lectures/Lect02_SimpRegression.pptx)        
     * Demo: [Understanding automobile mpg](./unit02_simp_lin_reg/demo_auto_mpg.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
-    * Homework (Due on Sept 20, 23:59 PM ET)
+    * Homework (Due on Sept 18, 23:59 PM ET)
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
         * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
+
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
