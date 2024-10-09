@@ -96,7 +96,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
     [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
     * Demo: [Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-    * Homework (:bell:Due on Oct 15, 11:59 AM ET, Tuesday (One day earlier)!!! Homework solution will be posted before 1AM Wednesday. No late homework accepted) 
+    * Homework ( :bell::bell::bell: Due on Oct 15, 11:59 AM ET, Tuesday (One day earlier)!!! Homework solution will be posted before 1AM Wednesday. No late homework accepted) 
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
