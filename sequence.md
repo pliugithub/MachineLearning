@@ -116,17 +116,16 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
-
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
     [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
     * Demo 1: [MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
     * Demo 2: [Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
-    * Homework (Due on Nov 8, 23:59 PM ET) 
+    * Homework (Due on Nov 6, 23:59 PM ET) 
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
+        
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
