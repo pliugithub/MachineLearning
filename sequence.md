@@ -124,8 +124,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on Nov 6, 23:59 PM ET) 
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
-        
-`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
@@ -134,9 +132,32 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Demo 1: [First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
     * Demo 2: [MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
     * In-class:[Exercise](./unit09_neural/neural_inclass.ipynb)
-    * Homework (Due on Nov 15, 23:59 PM ET) 
+    * Homework (Due on Nov 13, 23:59 PM ET) 
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
+
+* [Course Project](./projects/readme.md)
+    * Why a course project? It's for students who want to enhance their grades beyond just exams and homework. To earn a high grade, you must demonstrate substantial extra effort.
+        * It is the student's responsibility to clearly outline their contribution.
+            * Try to work on something original(new data, new applications), rather than relying on resources easily found online.
+            * It's fine to use generative AI tools, but you must thoroughly understand every line of code and be able to explain it.
+        * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
+            * Put quotation marks at the beginning and end of all copied text. 
+            * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
+            * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
+            * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.
+    * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
+    * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
+    * Make sure you don't **plagiarise**. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
+    * One or two students in a project group. One submission per team.
+    * BE UNIQUE. Your project has to be significantly different than anything you can directly find in a blog post, textbook or Kaggle. List of suggested project topics can be found [here](./projects/readme.md).
+    * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
+        * Submit your code and report on Gradescope;
+        * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
+        * Follow the submission guidelines listed [here](./projects/submission.md).
+
+        
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
@@ -176,21 +197,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (***No submission, will NOT be graded***)   
         * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
 
-* [Course Project](./projects/readme.md)
-    * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
-    * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
-    * Make sure you don't **plagiarise**. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
-        * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
-            * Put quotation marks at the beginning and end of all copied text. 
-            * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
-            * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
-            * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.
-    * One or two students in a project group. One submission per team.
-    * BE UNIQUE. Your project has to be significantly different than anything you can directly find in a blog post, textbook or Kaggle. List of suggested project topics can be found [here](./projects/readme.md).
-    * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
-        * Submit your code and report on Gradescope;
-        * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
-        * Follow the submission guidelines listed [here](./projects/submission.md).
 
 * Final Exam
     * :bell::bell::bell: Final Exam will be on Dec 18 @5PM. Focused on the topics taught after the midterm exam. 
