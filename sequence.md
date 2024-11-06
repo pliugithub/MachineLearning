@@ -141,6 +141,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * It is the student's responsibility to clearly outline their contribution.
             * Try to work on something original(new data, new applications), rather than relying on resources easily found online.
             * It's fine to use generative AI tools, but you must thoroughly understand every line of code and be able to explain it.
+            * Some suggested project topics can be found [here](./projects/readme.md).
         * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
             * Put quotation marks at the beginning and end of all copied text. 
             * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
@@ -150,7 +151,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
     * Make sure you don't **plagiarise**. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
     * One or two students in a project group. One submission per team.
-    * BE UNIQUE. Your project has to be significantly different than anything you can directly find in a blog post, textbook or Kaggle. List of suggested project topics can be found [here](./projects/readme.md).
     * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
