@@ -187,8 +187,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (Due on Dec 4, 23:59 PM ET)   
         * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
         
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * Unit 13:  Decision Trees and Random Forest
     * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
     [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
@@ -196,10 +194,12 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (***No submission, will NOT be graded***)   
         * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
 
+* No class on Dec 11, Reading Day
 
 * Final Exam
     * :bell::bell::bell: Final Exam will be on Dec 18 @5PM. Focused on the topics taught after the midterm exam. 
 
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 
         
