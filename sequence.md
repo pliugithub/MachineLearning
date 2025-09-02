@@ -25,7 +25,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* Syllabus: [Fall 2024](./lectures/GY6143_ML_Syllabus_F24.pdf)
+* Syllabus: [Fall 2025](./lectures/GY6143_ML_Syllabus_F25.pdf)
    * [NYU Tandon Policies and Procedures on Academic Misconduct](https://engineering.nyu.edu/student-life/student-activities/office-student-affairs/policies/code-conduct#chapter-id-34265)
 
 * Setting up python and jupyter notebook
@@ -50,6 +50,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      * Demo: [Overview of Google Colab](./unit01_intro/Overview_of_Colaboratory_Features.ipynb)
      * Homework: Get familiar with Github/Google Colab. Please also review the Python tutorial and introduction to numpy, even if you are familiar with Python. Homework submission is not required.
      
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * Unit 2:  Simple linear regression
     * Lecture:  Simple linear regression [[pdf]](./lectures/Lect02_SimpRegression.pdf)
@@ -199,7 +200,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 * Final Exam
     * :bell::bell::bell: Final Exam will be on Dec 18 @5PM. Focused on the topics taught after the midterm exam. 
 
-`------Materials below are from previous semesters and might be updated before each class.------`
 
 
         
