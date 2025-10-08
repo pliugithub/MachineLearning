@@ -99,14 +99,9 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
     [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)        
     * Demo: [Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
-    * Homework ( :bell::bell::bell: Due on Oct 15, 11:59 PM ET, Tuesday (One day earlier)!!! Homework solution will be posted before 1AM Wednesday. No late homework accepted) 
+    * Homework (Due on Oct 15, 11:59 PM ET, Tuesday)
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
-
-* Midterm Exam
-    * :bell::bell::bell: Midterm exam on Wednesday Oct 16 @5PM.
-        * Closebook exam, no electronic aids allowed.
-        * Two pages of cheat sheets allowed, you can write on both sides.
 
 
 * [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
@@ -115,9 +110,14 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
     * Demo 1: [Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * Demo 2: [Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (Due on Oct 30, 23:59 PM ET) 
+    * Homework (:bell::bell::bell: Due on Oct 21, 23:59 PM ET (One day earlier)!!! Homework solution will be posted before 1AM Wednesday. No late homework accepted) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
+
+* Midterm Exam
+    * :bell::bell::bell: Midterm exam on Wednesday Oct 22 @5PM.
+        * Closebook exam, no electronic aids allowed.
+        * Two pages of cheat sheets allowed, you can write on both sides.
 
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
