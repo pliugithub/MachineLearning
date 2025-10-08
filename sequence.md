@@ -90,9 +90,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
         * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
 
-     
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 
 * [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
     * Lecture:  Linear classification and logistic regression
@@ -110,7 +107,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
     * Demo 1: [Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * Demo 2: [Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (:bell::bell::bell: Due on Oct 21, 23:59 PM ET (One day earlier)!!! Homework solution will be posted before 1AM Wednesday. No late homework accepted) 
+    * Homework ( :bell::bell::bell: Due on Oct 21, 23:59 PM ET (One day earlier)!!! Homework solution will be posted before 1AM Wednesday. No late homework accepted) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
@@ -118,6 +115,8 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * :bell::bell::bell: Midterm exam on Wednesday Oct 22 @5PM.
         * Closebook exam, no electronic aids allowed.
         * Two pages of cheat sheets allowed, you can write on both sides.
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
     * Lecture:  SVM [[pdf]](./lectures/Lect08_SVM.pdf)
