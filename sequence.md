@@ -125,8 +125,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
 
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 9: Neural networks with Keras and Tensorflow](./unit09_neural/readme.md)
     * Lecture:  Neural networks [[pdf]](./lectures/Lect09_NeuralNet.pdf)
     [[Powerpoint]](./lectures/Lect09_NeuralNet.pptx) 
@@ -134,9 +132,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Demo 1: [First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
     * Demo 2: [MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
     * In-class:[Exercise](./unit09_neural/neural_inclass.ipynb)
-    * Homework (Due on Nov 13, 23:59 PM ET) 
+    * Homework (Due on Nov 12, 23:59 PM ET) 
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
+
+
+`------Materials below are from previous semesters and might be updated before each class.------`
+
 
 * [Course Project](./projects/readme.md)
     * Why a course project? It's for students who want to enhance their grades beyond just exams and homework. To earn a high grade, you must demonstrate substantial extra effort.
