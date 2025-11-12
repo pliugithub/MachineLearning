@@ -136,9 +136,22 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
+* [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
+    * Lecture:  Convolutional and deep networks
+    [[pdf]](./lectures/Lect10_ConvNet.pdf)
+    [[Powerpoint]](./lectures/Lect10_ConvNet.pptx)         
+    * [Setting up a GPU instance](./GCP/getting_started.md) (Recommended)
+    * [Demo 1: 2D convolutions and convolutional layers in keras](./unit10_cnn/demo1_convolutions.ipynb)
+    * [Demo 2: Creating an image set using the Flickr API](./unit10_cnn/demo2_flickr_images.ipynb)
+    * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
+    * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
+    * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
+    * Homework (Due on Nov 19, 23:59 PM ET) 
+        * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
+    (GPU recommended)
+        * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
 
 `------Materials below are from previous semesters and might be updated before each class.------`
-
 
 * [Course Project](./projects/readme.md)
     * Why a course project? It's for students who want to enhance their grades beyond just exams and homework. To earn a high grade, you must demonstrate substantial extra effort.
@@ -159,21 +172,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Submit your code and report on Gradescope;
         * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
         * Follow the submission guidelines listed [here](./projects/submission.md).
-
-* [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
-    * Lecture:  Convolutional and deep networks
-    [[pdf]](./lectures/Lect10_ConvNet.pdf)
-    [[Powerpoint]](./lectures/Lect10_ConvNet.pptx)         
-    * [Setting up a GPU instance](./GCP/getting_started.md) (Recommended)
-    * [Demo 1: 2D convolutions and convolutional layers in keras](./unit10_cnn/demo1_convolutions.ipynb)
-    * [Demo 2: Creating an image set using the Flickr API](./unit10_cnn/demo2_flickr_images.ipynb)
-    * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
-    * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
-    * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * Homework (Due on Nov 20, 23:59 PM ET) 
-        * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
-    (GPU recommended)
-        * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
 
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
