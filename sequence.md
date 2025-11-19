@@ -151,6 +151,14 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
 
+* [Unit 11:  PCA](./pca/readme.md)
+    * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
+    * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
+    * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
+    * Homework (Due on Dec 3, 23:59 PM ET) 
+        * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
+        * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
+
 `------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Course Project](./projects/readme.md)
@@ -173,13 +181,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
         * Follow the submission guidelines listed [here](./projects/submission.md).
 
-* [Unit 11:  PCA](./pca/readme.md)
-    * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
-    * [Demo 1:  PCA eigen-faces-SVM](./unit11_pca/demo1_eigen_face.ipynb)
-    * [Demo 2:  Low-rank matrix completion via embedding layers](./unit11_pca/demo2_low_rank.ipynb)
-    * Homework (Due on Nov 30, 23:59 PM ET) 
-        * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
-        * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
+
 
 * [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
     * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
