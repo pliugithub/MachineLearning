@@ -159,15 +159,32 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [PCA with hyper-parameter optimization](./unit11_pca/lab_wine_partial.ipynb)
         * Problems: [[pdf]](./unit11_pca/prob/prob_PCA.pdf)
 
-`------Materials below are from previous semesters and might be updated before each class.------`
+* [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
+    * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
+    [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
+    * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
+    * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
+    * Homework (Due on Dec 10, 23:59 PM ET)   
+        * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
+        
+* Unit 13:  Decision Trees and Random Forest
+    * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
+    [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
+    * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
+    * Homework (***No submission, will NOT be graded***)   
+        * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
+
+
+* Final Exam
+    * :bell::bell::bell: Final Exam will be on Dec 17 @5PM. Focused on the topics taught after the midterm exam. 
 
 * [Course Project](./projects/readme.md)
     * Why a course project? It's for students who want to enhance their grades beyond just exams and homework. To earn a high grade, you must demonstrate substantial extra effort.
+        * Try to work on something original(new data, new applications), rather than relying on resources easily found online with code(such as Kaggle or a blog post). Try do identify and define your own problem. For example, you can take a look at [NYC Open Data](https://opendata.cityofnewyork.us) and find something interesting.
+        * Don't be too ambitious and train a large model. 
         * It is the student's responsibility to clearly outline their contribution.
-            * Try to work on something original(new data, new applications), rather than relying on resources easily found online.
             * It's fine to use generative AI tools, but you must thoroughly understand every line of code and be able to explain it.
-            * Some suggested project topics can be found [here](./projects/readme.md).
-        * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
+                    * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
             * Put quotation marks at the beginning and end of all copied text. 
             * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
             * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
@@ -182,27 +199,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Follow the submission guidelines listed [here](./projects/submission.md).
 
 
-
-* [Unit 12:  Clustering and EM](./unit12_cluster/readme.md)
-    * Lecture:  Clustering and EM [[pdf]](./lectures/Lect12_Clustering.pdf)
-    [[Powerpoint]](./lectures/Lect12_Clustering.pptx)         
-    * [Demo 1: Document clustering via k-means and latent semantic analysis](./unit12_cluster/demo1_doc_cluster.ipynb)
-    * [Demo 2: Color quantization via k-means and EM-GMM](./unit12_cluster/demo2_kmeans_GMM_color_quantization.ipynb)  
-    * Homework (Due on Dec 4, 23:59 PM ET)   
-        * Problems: [[pdf]](./unit12_cluster/prob/prob_clustering.pdf)
-        
-* Unit 13:  Decision Trees and Random Forest
-    * Lecture:  Decision tree and random foreast [[pdf]](./lectures/Lect13_Trees.pdf)
-    [[Powerpoint]](./lectures/Lect13_Trees.pptx)         
-    * [Demo: Prediction of temperature using decision tree and random forest](./unit13_tree/decision_tree_and_random_forest.ipynb)
-    * Homework (***No submission, will NOT be graded***)   
-        * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
-
-* No class on Dec 11, Reading Day
-
-* Final Exam
-    * :bell::bell::bell: Final Exam will be on Dec 18 @5PM. Focused on the topics taught after the midterm exam. 
-
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 
         
