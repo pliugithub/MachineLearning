@@ -189,7 +189,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
             * Don't be too ambitious and try to build the most powerful model.
         * It is the student's responsibility to clearly outline their contribution.
             * It's fine to use generative AI tools, but you must thoroughly understand every line of code and be able to explain it.
-                    * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
+            * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
             * Put quotation marks at the beginning and end of all copied text. 
             * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
             * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
