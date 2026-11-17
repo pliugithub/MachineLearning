@@ -136,9 +136,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
-
-`------Materials below are from previous semesters and might be updated before each class.------`
-
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
     [[pdf]](./lectures/Lect10_ConvNet.pdf)
@@ -149,10 +146,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
     * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
     * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * Homework (Due on Nov 19, 23:59 PM ET) 
+    * Homework (Due on Nov 25, 23:59 PM ET) 
         * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
+
+
+`------Materials below are from previous semesters and might be updated before each class.------`
 
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
@@ -179,12 +179,14 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
 
 
 * Final Exam
-    * :bell::bell::bell: Final Exam will be on Dec 17 @5PM. Focused on the topics taught after the midterm exam. 
+    * :bell::bell::bell: Final Exam will be on Dec 16 @6PM. Focused on the topics taught after the midterm exam. 
 
 * [Course Project](./projects/readme.md)
     * Why a course project? It's for students who want to enhance their grades beyond just exams and homework. To earn a high grade, you must demonstrate substantial extra effort.
-        * Try to work on something original(new data, new applications), rather than relying on resources easily found online with code(such as Kaggle or a blog post). Try do identify and define your own problem. For example, you can take a look at [NYC Open Data](https://opendata.cityofnewyork.us) and find something interesting.
-        * Don't be too ambitious and train a large model. 
+        * This optional project is your chance to apply what we’ve learned this semester to a problem you care about. The goal is to practice the full workflow of a real ML project: asking a good question, turning messy data into something usable, choosing a sensible method, and honestly interpreting what you find.
+            * Don't work on a pre-packaged dataset with a known answer, you will define your own question, gather and prepare your own data, and use course methods to produce meaningful, well-evaluated results. 
+            * Find your own problem and data. Good starting points include [NYC OpenData](https://opendata.cityofnewyork.us), other city or state open data portals, government sources (Census, NOAA weather, public transit data), public APIs, or data you collect yourself (photos, sensor logs from your phone, surveys, etc.).
+            * Don't be too ambitious and try to build the most powerful model.
         * It is the student's responsibility to clearly outline their contribution.
             * It's fine to use generative AI tools, but you must thoroughly understand every line of code and be able to explain it.
                     * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
@@ -196,7 +198,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
     * Make sure you don't **plagiarise**. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)
     * One or two students in a project group. One submission per team.
-    * :bell::bell::bell: Project report is due on the Dec 23, 23:59 PM ET.
+    * :bell::bell::bell: Project report is due on the Dec 24, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
         * Follow the submission guidelines listed [here](./projects/submission.md).

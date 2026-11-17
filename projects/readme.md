@@ -1,21 +1,26 @@
 [Home](../sequence.md) - Project Ideas
 
-# List of project topics
+# What We’re Looking For
 
 Your project has to be significantly different than anything you can directly find in a blog post, textbook or Kaggle. The purpose of the project is to encourage you to solve a practical problem that you are interested in, based on what we taught in the classroom. Thus you should
 
-* Think of a problem of your own, gather your data and think about what kind of algorithm is the best fit for your problem and try different parameter/network structure. For example, how about you write a letter on a piece of paper, present it to your computer camera and recognize it in realtime using SVM or CNN? How can you make sure you can still recognize it if it is upside down?
-* Find some real-world data and use machine learning to solve it. For example, [NYC OpenData](https://opendata.cityofnewyork.us) has lots of data available. 
-* Most importantly, try your best NOT to copy code and dataset from some website and just change few parameters. Your grade will not be high.
-* List of suggested some project topics are listed below. You are free to choose a topic not listed here. However, make sure you don't simply copy the code and just change few parameters. Instead, look at them as an example of how to apply ML to various problem.
- 	* [Audio: Music](./Audio(music).pdf)
- 	* [Audio: Speech](./Audio(speech).pdf)
- 	* [Generating images](./Generatingimages.pdf)
- 	* [Generating text](./Generatingtext.pdf)
- 	* [Understanding images](./Understanding_images.pdf)
- 	* [Understanding text](./Understanding_text.pdf)
- 	* [ML and society: Fairness, privacy, explainability](./ML_and_society.pdf)
- 	* [Security and robustness](./Security_and_robustness.pdf)
+* Originality in the problem and the data.
+	* Work on something new, such as a new dataset, a new combination of datasets, or a new application. You should identify and define the problem yourself.
+	* Good starting points include [NYC OpenData](https://opendata.cityofnewyork.us), other city or state open data portals, government sources (Census, NOAA weather, public transit data), public APIs, or data you collect yourself (photos, sensor logs from your phone, surveys, etc.).
+	* Combining two sources is a great way to make a project original. For example, joining weather data with bike-share trips, or 311 complaints with census demographics.
+
+* Your own work, not a reproduction.
+	* Do not copy a problem, dataset, or code from Kaggle, a blog post, a tutorial, or a GitHub repo. Note that many public datasets (including some NYC ones) also appear on Kaggle with existing notebooks.
+	* Using such a dataset is acceptable only if your question and analysis are clearly your own, and you must not use or adapt existing notebooks for it.
+
+* Methods similar to what we covered this semester.
+	* Linear and logistic regression (with regularization)
+	* Linear classifiers, including SVMs (linear or kernel)
+	* k-nearest neighbors, decision trees
+	* Clustering (k-means, hierarchical, etc.) and dimensionality reduction (PCA)
+	* Small neural networks, including a simple CNN trained from scratch or a lightly fine-tuned small model
+
+* Appropriate scope: Don’t be too ambitious. You do not need, and should not attempt, to train a large model. A simple model applied thoughtfully to an interesting problem, with careful evaluation, is far better than a complex model you can’t explain. A strong project usually compares a simple baseline against one or two course methods.
 
 * What do we expect?
 	* You should always add references to any data/code/tables/figures/sentences you copied from somewhere.
