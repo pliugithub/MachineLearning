@@ -187,13 +187,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
             * Don't work on a pre-packaged dataset with a known answer, you will define your own question, gather and prepare your own data, and use course methods to produce meaningful, well-evaluated results. 
             * Find your own problem and data. Good starting points include [NYC OpenData](https://opendata.cityofnewyork.us), other city or state open data portals, government sources (Census, NOAA weather, public transit data), public APIs, or data you collect yourself (photos, sensor logs from your phone, surveys, etc.).
             * Don't be too ambitious and try to build the most powerful model.
-        * It is the student's responsibility to clearly outline their contribution.
-            * It's fine to use generative AI tools, but you must thoroughly understand every line of code and be able to explain it.
-            * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
-            * Put quotation marks at the beginning and end of all copied text. 
-            * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
-            * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
-            * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.
     * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
     * Doing a project will never hurt your grade (assuming you didn't do any plagiarism on the project). If project grade is lower than your exams, we will use your exams for that 20% portion and not consider the project.
     * Make sure you don't **plagiarise**. This class and NYU take plagiarism very seriously. If plagiarism is detected you will get a ZERO grade from the project. ( You can definitely use a blog post or a github repository as a starter code: Cite it, clearly write what is the difference of your work from the starter code and how did you contribute.)

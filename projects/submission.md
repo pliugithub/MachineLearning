@@ -4,6 +4,14 @@
   * You need a quad chart at the begining of your report, which serves as an executive summary. You need to very briefly describe what is the motivation, why it should be solved by ML and the tool you picked,  what is your contribution (how is it different the existing), results, summary/future directions/lessons learned. Be concise!
   * The report should be formated as a paper of few pages long.
   * If it is a group project, please just upload once by one group member. You will then choose who is your partner when you submit on Gradescope.
+	
+It is the student's responsibility to clearly outline their contribution.
+  * It's fine to use generative AI tools, but you must thoroughly understand every line of code and be able to explain it.
+  * You have to clearly cite the sources you use for your work whether it is a blog post or github repository or a paper published. It is very important you don't miss any source you used. Plaese cite all source in the report.
+  * Put quotation marks at the beginning and end of all copied text. 
+  * If any figure/table is copied, in the caption add "This figure/table is from reference [#]"
+  * At the end of your report, you have to attach a copy of your source code. At the top of the source code, add reference to the orginal source code file unless you write everything from scratch. You should not just pointing to the repo, you have to be show the URL of the current file you copied from.
+  * **HIGHLIGHT** all lines of code that you wrote yourself, or modified.
 
 Submit one pdf document consisting of and ordered accordingly:
 ## 1. Your Name, and Net ID
