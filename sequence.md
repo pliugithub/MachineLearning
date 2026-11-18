@@ -194,7 +194,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * :bell::bell::bell: Project report is due on the Dec 24, 23:59 PM ET.
         * Submit your code and report on Gradescope;
         * If you worked in a team, make sure only submit one copy and link all names to the submission in Gradescope.
-        * Follow the submission guidelines listed [here](./projects/submission.md).
+    * More detailed requirements and submission guidelines can be found [here](./projects/readme.md).
 
 
 
